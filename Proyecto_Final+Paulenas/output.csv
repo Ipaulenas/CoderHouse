@@ -1,0 +1,1627 @@
+﻿,postal_code,country_code,latitude,longitude,city,state,city_en,state_en,state_code,province,province_code
+0,90022,US,34.02450000,-118.15610000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1,90063,US,34.04510000,-118.18590000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+2,90065,US,34.10730000,-118.22660000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+3,90303,US,33.93770000,-118.33210000,Inglewood,California,Inglewood,California,CA,Los Angeles,037
+4,90602,US,33.96930000,-118.03370000,Whittier,California,Whittier,California,CA,Los Angeles,037
+5,90660,US,33.98860000,-118.08830000,Pico Rivera,California,Pico Rivera,California,CA,Los Angeles,037
+6,90720,US,33.79560000,-118.06480000,Los Alamitos,California,Los Alamitos,California,CA,Orange,059
+7,91024,US,34.16510000,-118.05190000,Sierra Madre,California,Sierra Madre,California,CA,Los Angeles,037
+8,91106,US,34.14350000,-118.12660000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+9,91107,US,34.15100000,-118.08890000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+10,91605,US,34.20570000,-118.40010000,North Hollywood,California,North Hollywood,California,CA,Los Angeles,037
+11,91722,US,34.09720000,-117.90650000,Covina,California,Covina,California,CA,Los Angeles,037
+12,91732,US,34.07050000,-118.01490000,El Monte,California,El Monte,California,CA,Los Angeles,037
+13,91746,US,34.04430000,-117.98620000,La Puente,California,La Puente,California,CA,Los Angeles,037
+14,91748,US,33.98180000,-117.89690000,Rowland Heights,California,Rowland Heights,California,CA,Los Angeles,037
+15,91764,US,34.07630000,-117.62540000,Ontario,California,Ontario,California,CA,San Bernardino,071
+16,91901,US,32.82820000,-116.75430000,Alpine,California,Alpine,California,CA,San Diego,073
+17,92122,US,32.85770000,-117.21150000,San Diego,California,San Diego,California,CA,San Diego,073
+18,92274,US,33.55780000,-116.15720000,Thermal,California,Thermal,California,CA,Riverside,065
+19,92509,US,34.00330000,-117.44500000,Riverside,California,Riverside,California,CA,Riverside,065
+20,92544,US,33.73900000,-116.92430000,Hemet,California,Hemet,California,CA,Riverside,065
+21,92557,US,33.95530000,-117.24570000,Moreno Valley,California,Moreno Valley,California,CA,Riverside,065
+22,92571,US,33.81100000,-117.21800000,Perris,California,Perris,California,CA,Riverside,065
+23,92807,US,33.85440000,-117.78580000,Anaheim,California,Anaheim,California,CA,Orange,059
+24,92823,US,33.92300000,-117.79800000,Brea,California,Brea,California,CA,Orange,059
+25,92887,US,33.88410000,-117.73040000,Yorba Linda,California,Yorba Linda,California,CA,Orange,059
+26,93067,US,34.42140000,-119.59650000,Summerland,California,Summerland,California,CA,Santa Barbara,083
+27,93101,US,34.41970000,-119.70780000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+28,93201,US,35.88770000,-119.48730000,Alpaugh,California,Alpaugh,California,CA,Tulare,107
+29,93208,US,36.14270000,-118.60930000,Camp Nelson,California,Camp Nelson,California,CA,Tulare,107
+30,93215,US,35.77150000,-119.24590000,Delano,California,Delano,California,CA,Kern,029
+31,93224,US,35.17860000,-119.54120000,Fellows,California,Fellows,California,CA,Kern,029
+32,92592,US,33.49830000,-117.09580000,Temecula,California,Temecula,California,CA,Riverside,065
+33,92129,US,32.96520000,-117.12130000,San Diego,California,San Diego,California,CA,San Diego,073
+34,93606,US,36.80320000,-120.01850000,Biola,California,Biola,California,CA,Fresno,019
+35,93662,US,36.56950000,-119.61700000,Selma,California,Selma,California,CA,Fresno,019
+36,93675,US,36.70710000,-119.18140000,Squaw Valley,California,Squaw Valley,California,CA,Fresno,019
+37,93706,US,36.64860000,-119.99870000,Fresno,California,Fresno,California,CA,Fresno,019
+38,93928,US,35.97080000,-121.17600000,Jolon,California,Jolon,California,CA,Monterey,053
+39,94102,US,37.78130000,-122.41670000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+40,94108,US,37.79290000,-122.40790000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+41,94114,US,37.75870000,-122.43300000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+42,94130,US,37.82310000,-122.36930000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+43,94304,US,37.43340000,-122.18420000,Palo Alto,California,Palo Alto,California,CA,Santa Clara,085
+44,94512,US,38.15040000,-121.84430000,Birds Landing,California,Birds Landing,California,CA,Solano,095
+45,94514,US,37.82540000,-121.62360000,Byron,California,Byron,California,CA,Contra Costa,013
+46,94539,US,37.51760000,-121.92870000,Fremont,California,Fremont,California,CA,Alameda,001
+47,94550,US,37.68300000,-121.76300000,Livermore,California,Livermore,California,CA,Alameda,001
+48,94558,US,38.45490000,-122.25640000,Napa,California,Napa,California,CA,Napa,055
+49,94566,US,37.66580000,-121.87550000,Pleasanton,California,Pleasanton,California,CA,Alameda,001
+50,94583,US,37.75620000,-121.95220000,San Ramon,California,San Ramon,California,CA,Contra Costa,013
+51,94588,US,37.68730000,-121.89570000,Pleasanton,California,Pleasanton,California,CA,Alameda,001
+52,94704,US,37.86640000,-122.25700000,Berkeley,California,Berkeley,California,CA,Alameda,001
+53,94707,US,37.89270000,-122.27610000,Berkeley,California,Berkeley,California,CA,Alameda,001
+54,94710,US,37.86960000,-122.29590000,Berkeley,California,Berkeley,California,CA,Alameda,001
+55,94904,US,37.94790000,-122.53630000,Greenbrae,California,Greenbrae,California,CA,Marin,041
+56,94933,US,38.01220000,-122.69070000,Forest Knolls,California,Forest Knolls,California,CA,Marin,041
+57,95019,US,36.93560000,-121.77670000,Freedom,California,Freedom,California,CA,Santa Cruz,087
+58,95020,US,37.01390000,-121.57730000,Gilroy,California,Gilroy,California,CA,Santa Clara,085
+59,95030,US,37.22960000,-121.98340000,Los Gatos,California,Los Gatos,California,CA,Santa Clara,085
+60,95128,US,37.31630000,-121.93560000,San Jose,California,San Jose,California,CA,Santa Clara,085
+61,95135,US,37.29740000,-121.75620000,San Jose,California,San Jose,California,CA,Santa Clara,085
+62,95232,US,38.35540000,-120.57780000,Glencoe,California,Glencoe,California,CA,Calaveras,009
+63,95310,US,38.04400000,-120.39710000,Columbia,California,Columbia,California,CA,Tuolumne,109
+64,92027,US,33.13880000,-117.05200000,Escondido,California,Escondido,California,CA,San Diego,073
+65,90712,US,33.85120000,-118.14570000,Lakewood,California,Lakewood,California,CA,Los Angeles,037
+66,95439,US,38.49470000,-122.77610000,Fulton,California,Fulton,California,CA,Sonoma,097
+67,95464,US,39.11940000,-122.83150000,Nice,California,Nice,California,CA,Lake,033
+68,95511,US,40.16760000,-123.61920000,Alderpoint,California,Alderpoint,California,CA,Humboldt,023
+69,95524,US,40.82660000,-124.05520000,Bayside,California,Bayside,California,CA,Humboldt,023
+70,95551,US,40.65890000,-124.22510000,Loleta,California,Loleta,California,CA,Humboldt,023
+71,95562,US,40.49870000,-124.11020000,Rio Dell,California,Rio Dell,California,CA,Humboldt,023
+72,95618,US,38.54490000,-121.74050000,Davis,California,Davis,California,CA,Yolo,113
+73,95630,US,38.67090000,-121.15290000,Folsom,California,Folsom,California,CA,Sacramento,067
+74,95653,US,38.68020000,-121.97210000,Madison,California,Madison,California,CA,Yolo,113
+75,95668,US,38.81150000,-121.49820000,Pleasant Grove,California,Pleasant Grove,California,CA,Sutter,101
+76,95681,US,38.99530000,-121.36800000,Sheridan,California,Sheridan,California,CA,Placer,061
+77,95692,US,39.03370000,-121.42350000,Wheatland,California,Wheatland,California,CA,Yuba,115
+78,95742,US,38.59810000,-121.21530000,Rancho Cordova,California,Rancho Cordova,California,CA,Sacramento,067
+79,95923,US,39.56450000,-121.57510000,Canyon Dam,California,Canyon Dam,California,CA,Plumas,063
+80,95935,US,39.36620000,-121.22560000,Dobbins,California,Dobbins,California,CA,Yuba,115
+81,95942,US,39.88210000,-121.67280000,Forest Ranch,California,Forest Ranch,California,CA,Butte,007
+82,95949,US,39.11930000,-121.09380000,Grass Valley,California,Grass Valley,California,CA,Nevada,057
+83,95959,US,39.30170000,-120.97170000,Nevada City,California,Nevada City,California,CA,Nevada,057
+84,92028,US,33.36900000,-117.22900000,Fallbrook,California,Fallbrook,California,CA,San Diego,073
+85,96052,US,40.74600000,-122.84260000,Lewiston,California,Lewiston,California,CA,Trinity,105
+86,96073,US,40.57670000,-122.23980000,Palo Cedro,California,Palo Cedro,California,CA,Shasta,089
+87,96084,US,40.79400000,-121.94190000,Round Mountain,California,Round Mountain,California,CA,Shasta,089
+88,92130,US,32.95550000,-117.22520000,San Diego,California,San Diego,California,CA,San Diego,073
+89,92121,US,32.89190000,-117.20350000,San Diego,California,San Diego,California,CA,San Diego,073
+90,90254,US,33.86430000,-118.39550000,Hermosa Beach,California,Hermosa Beach,California,CA,Los Angeles,037
+91,90620,US,33.84390000,-118.00800000,Buena Park,California,Buena Park,California,CA,Orange,059
+92,90621,US,33.87720000,-117.98930000,Buena Park,California,Buena Park,California,CA,Orange,059
+93,90813,US,33.78200000,-118.18350000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+94,91030,US,34.11090000,-118.15470000,South Pasadena,California,South Pasadena,California,CA,Los Angeles,037
+95,91202,US,34.16520000,-118.26560000,Glendale,California,Glendale,California,CA,Los Angeles,037
+96,91204,US,34.13790000,-118.25990000,Glendale,California,Glendale,California,CA,Los Angeles,037
+97,91335,US,34.20070000,-118.53910000,Reseda,California,Reseda,California,CA,Los Angeles,037
+98,91342,US,34.30540000,-118.43220000,Sylmar,California,Sylmar,California,CA,Los Angeles,037
+99,91502,US,34.17450000,-118.30590000,Burbank,California,Burbank,California,CA,Los Angeles,037
+100,91606,US,34.18720000,-118.38650000,North Hollywood,California,North Hollywood,California,CA,Los Angeles,037
+101,91710,US,34.01250000,-117.68440000,Chino,California,Chino,California,CA,San Bernardino,071
+102,91711,US,34.10920000,-117.71830000,Claremont,California,Claremont,California,CA,Los Angeles,037
+103,92117,US,32.82390000,-117.19650000,San Diego,California,San Diego,California,CA,San Diego,073
+104,92239,US,33.80900000,-115.36660000,Desert Center,California,Desert Center,California,CA,Riverside,065
+105,92397,US,34.36280000,-117.62490000,Wrightwood,California,Wrightwood,California,CA,San Bernardino,071
+106,92555,US,33.93770000,-117.18510000,Moreno Valley,California,Moreno Valley,California,CA,Riverside,065
+107,92563,US,33.56900000,-117.17830000,Murrieta,California,Murrieta,California,CA,Riverside,065
+108,92567,US,33.81230000,-117.10480000,Nuevo,California,Nuevo,California,CA,Riverside,065
+109,92606,US,33.69510000,-117.82240000,Irvine,California,Irvine,California,CA,Orange,059
+110,92625,US,33.60210000,-117.87430000,Corona Del Mar,California,Corona Del Mar,California,CA,Orange,059
+111,92655,US,33.74460000,-117.98400000,Midway City,California,Midway City,California,CA,Orange,059
+112,92661,US,33.60450000,-117.90210000,Newport Beach,California,Newport Beach,California,CA,Orange,059
+113,92663,US,33.62100000,-117.93210000,Newport Beach,California,Newport Beach,California,CA,Orange,059
+114,92706,US,33.76910000,-117.88550000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+115,93022,US,34.40200000,-119.29820000,Oak View,California,Oak View,California,CA,Ventura,111
+116,93110,US,34.44180000,-119.76470000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+117,93270,US,35.95700000,-119.03120000,Terra Bella,California,Terra Bella,California,CA,Tulare,107
+118,93426,US,35.80930000,-120.97280000,Bradley,California,Bradley,California,CA,Monterey,053
+119,93444,US,35.02980000,-120.48940000,Nipomo,California,Nipomo,California,CA,San Luis Obispo,079
+120,93541,US,37.98900000,-119.12340000,Lee Vining,California,Lee Vining,California,CA,Mono,051
+121,93591,US,34.60190000,-117.81230000,Palmdale,California,Palmdale,California,CA,Los Angeles,037
+122,93612,US,36.81490000,-119.71060000,Clovis,California,Clovis,California,CA,Fresno,019
+123,93615,US,36.52430000,-119.28700000,Cutler,California,Cutler,California,CA,Tulare,107
+124,93621,US,36.74460000,-119.08990000,Dunlap,California,Dunlap,California,CA,Fresno,019
+125,93625,US,36.62820000,-119.67100000,Fowler,California,Fowler,California,CA,Fresno,019
+126,93665,US,36.96440000,-120.65320000,South Dos Palos,California,South Dos Palos,California,CA,Merced,047
+127,93668,US,36.65840000,-120.26170000,Tranquillity,California,Tranquillity,California,CA,Fresno,019
+128,93932,US,35.95000000,-121.06260000,Lockwood,California,Lockwood,California,CA,Monterey,053
+129,93933,US,36.68490000,-121.79340000,Marina,California,Marina,California,CA,Monterey,053
+130,93954,US,36.12890000,-121.02050000,San Lucas,California,San Lucas,California,CA,Monterey,053
+131,94015,US,37.67870000,-122.47800000,Daly City,California,Daly City,California,CA,San Mateo,081
+132,94109,US,37.79170000,-122.41860000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+133,94123,US,37.79990000,-122.43420000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+134,94402,US,37.55070000,-122.32760000,San Mateo,California,San Mateo,California,CA,San Mateo,081
+135,94520,US,37.98230000,-122.03620000,Concord,California,Concord,California,CA,Contra Costa,013
+136,94542,US,37.65860000,-122.04720000,Hayward,California,Hayward,California,CA,Alameda,001
+137,94559,US,38.29040000,-122.28410000,Napa,California,Napa,California,CA,Napa,055
+138,94803,US,37.96930000,-122.29010000,El Sobrante,California,El Sobrante,California,CA,Contra Costa,013
+139,94901,US,37.96910000,-122.51050000,San Rafael,California,San Rafael,California,CA,Marin,041
+140,94945,US,38.11630000,-122.57140000,Novato,California,Novato,California,CA,Marin,041
+141,94970,US,37.90200000,-122.63930000,Stinson Beach,California,Stinson Beach,California,CA,Marin,041
+142,95032,US,37.24170000,-121.95540000,Los Gatos,California,Los Gatos,California,CA,Santa Clara,085
+143,95039,US,36.81750000,-121.77730000,Moss Landing,California,Moss Landing,California,CA,Monterey,053
+144,95110,US,37.33910000,-121.90160000,San Jose,California,San Jose,California,CA,Santa Clara,085
+145,95126,US,37.32490000,-121.91530000,San Jose,California,San Jose,California,CA,Santa Clara,085
+146,95127,US,37.36920000,-121.82080000,San Jose,California,San Jose,California,CA,Santa Clara,085
+147,95207,US,38.00240000,-121.32380000,Stockton,California,Stockton,California,CA,San Joaquin,077
+148,95222,US,38.07100000,-120.57220000,Angels Camp,California,Angels Camp,California,CA,Calaveras,009
+149,95250,US,38.23783600,-120.42865200,,California,,California,,,
+150,95303,US,37.45480000,-120.69310000,Ballico,California,Ballico,California,CA,Merced,047
+151,95306,US,37.44040000,-120.14380000,Catheys Valley,California,Catheys Valley,California,CA,Mariposa,043
+152,95323,US,37.61560000,-120.70110000,Hickman,California,Hickman,California,CA,Stanislaus,099
+153,95372,US,37.99260000,-120.26240000,Soulsbyville,California,Soulsbyville,California,CA,Tuolumne,109
+154,95417,US,39.69490000,-123.55270000,Branscomb,California,Branscomb,California,CA,Mendocino,045
+155,95466,US,39.06570000,-123.44500000,Philo,California,Philo,California,CA,Mendocino,045
+156,95468,US,38.91520000,-123.60000000,Point Arena,California,Point Arena,California,CA,Mendocino,045
+157,95488,US,39.68430000,-123.76860000,Westport,California,Westport,California,CA,Mendocino,045
+158,95543,US,41.90560000,-123.83100000,Gasquet,California,Gasquet,California,CA,Del Norte,015
+159,95587,US,39.94650000,-123.75520000,Piercy,California,Piercy,California,CA,Mendocino,045
+160,95608,US,38.62840000,-121.32870000,Carmichael,California,Carmichael,California,CA,Sacramento,067
+161,95610,US,38.69460000,-121.26920000,Citrus Heights,California,Citrus Heights,California,CA,Sacramento,067
+162,95638,US,38.31190000,-121.17290000,Herald,California,Herald,California,CA,Sacramento,067
+163,95658,US,38.87630000,-121.14300000,Newcastle,California,Newcastle,California,CA,Placer,061
+164,95678,US,38.76090000,-121.28670000,Roseville,California,Roseville,California,CA,Placer,061
+165,95703,US,39.00070000,-120.99240000,Applegate,California,Applegate,California,CA,Placer,061
+166,95814,US,38.58040000,-121.49220000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+167,95819,US,38.56830000,-121.43660000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+168,95835,US,38.66260000,-121.48340000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+169,95838,US,38.64060000,-121.44400000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+170,95920,US,39.45680000,-121.95150000,Butte City,California,Butte City,California,CA,Glenn,021
+171,95930,US,39.53270000,-121.15750000,Clipper Mills,California,Clipper Mills,California,CA,Butte,007
+172,95971,US,39.92840000,-120.96980000,Quincy,California,Quincy,California,CA,Plumas,063
+173,95982,US,39.17790000,-121.77580000,Sutter,California,Sutter,California,CA,Sutter,101
+174,95984,US,40.05090000,-121.12680000,Twain,California,Twain,California,CA,Plumas,063
+175,96006,US,41.21750000,-120.94320000,Adin,California,Adin,California,CA,Modoc,049
+176,96074,US,39.87720000,-122.58140000,Paskenta,California,Paskenta,California,CA,Tehama,103
+177,96080,US,40.17950000,-122.23830000,Red Bluff,California,Red Bluff,California,CA,Tehama,103
+178,96109,US,40.00080000,-120.10770000,Doyle,California,Doyle,California,CA,Lassen,035
+179,96125,US,39.59360000,-120.62690000,Sierra City,California,Sierra City,California,CA,Sierra,091
+180,96148,US,39.24480000,-120.05210000,Tahoe Vista,California,Tahoe Vista,California,CA,Placer,061
+181,90007,US,34.02940000,-118.28710000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+182,90024,US,34.06370000,-118.44080000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+183,90028,US,34.10050000,-118.32540000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+184,90039,US,34.11210000,-118.25940000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+185,90230,US,33.99490000,-118.39910000,Culver City,California,Culver City,California,CA,Los Angeles,037
+186,90232,US,34.01680000,-118.39730000,Culver City,California,Culver City,California,CA,Los Angeles,037
+187,90248,US,33.87660000,-118.28350000,Gardena,California,Gardena,California,CA,Los Angeles,037
+188,90501,US,33.82680000,-118.31180000,Torrance,California,Torrance,California,CA,Los Angeles,037
+189,90640,US,34.01330000,-118.11300000,Montebello,California,Montebello,California,CA,Los Angeles,037
+190,90713,US,33.84730000,-118.11150000,Lakewood,California,Lakewood,California,CA,Los Angeles,037
+191,91007,US,34.12430000,-118.05150000,Arcadia,California,Arcadia,California,CA,Los Angeles,037
+192,91304,US,34.21970000,-118.61110000,Canoga Park,California,Canoga Park,California,CA,Los Angeles,037
+193,91381,US,34.37750000,-118.61310000,Stevenson Ranch,California,Stevenson Ranch,California,CA,Los Angeles,037
+194,91384,US,34.48270000,-118.62540000,Castaic,California,Castaic,California,CA,Los Angeles,037
+195,91401,US,34.18020000,-118.43240000,Van Nuys,California,Van Nuys,California,CA,Los Angeles,037
+196,91790,US,34.06730000,-117.93660000,West Covina,California,West Covina,California,CA,Los Angeles,037
+197,91906,US,32.66050000,-116.49050000,Campo,California,Campo,California,CA,San Diego,073
+198,91915,US,32.63150000,-116.94080000,Chula Vista,California,Chula Vista,California,CA,San Diego,073
+199,91978,US,32.73290000,-116.95960000,Spring Valley,California,Spring Valley,California,CA,San Diego,073
+200,92003,US,33.29400000,-117.18970000,Bonsall,California,Bonsall,California,CA,San Diego,073
+201,92029,US,33.08950000,-117.11280000,Escondido,California,Escondido,California,CA,San Diego,073
+202,92059,US,33.37770000,-117.07170000,Pala,California,Pala,California,CA,San Diego,073
+203,92061,US,33.30630000,-116.95960000,Pauma Valley,California,Pauma Valley,California,CA,San Diego,073
+204,92084,US,33.21310000,-117.22430000,Vista,California,Vista,California,CA,San Diego,073
+205,92210,US,33.71630000,-116.33810000,Indian Wells,California,Indian Wells,California,CA,Riverside,065
+206,92241,US,33.87630000,-116.35400000,Desert Hot Springs,California,Desert Hot Springs,California,CA,Riverside,065
+207,92258,US,33.92280000,-116.54310000,North Palm Springs,California,North Palm Springs,California,CA,Riverside,065
+208,92325,US,34.24330000,-117.28110000,Crestline,California,Crestline,California,CA,San Bernardino,071
+209,92356,US,34.44700000,-116.91890000,Lucerne Valley,California,Lucerne Valley,California,CA,San Bernardino,071
+210,92373,US,34.03970000,-117.18040000,Redlands,California,Redlands,California,CA,San Bernardino,071
+211,92382,US,34.21020000,-117.11090000,Running Springs,California,Running Springs,California,CA,San Bernardino,071
+212,92394,US,34.55630000,-117.35280000,Victorville,California,Victorville,California,CA,San Bernardino,071
+213,92408,US,34.08310000,-117.27110000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+214,92508,US,33.88970000,-117.30430000,Riverside,California,Riverside,California,CA,Riverside,065
+215,92532,US,33.69270000,-117.30300000,Lake Elsinore,California,Lake Elsinore,California,CA,Riverside,065
+216,92570,US,33.78520000,-117.31660000,Perris,California,Perris,California,CA,Riverside,065
+217,92590,US,33.49030000,-117.18240000,Temecula,California,Temecula,California,CA,Riverside,065
+218,92620,US,33.70090000,-117.75640000,Irvine,California,Irvine,California,CA,Orange,059
+219,92705,US,33.75400000,-117.79190000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+220,93010,US,34.23130000,-119.04640000,Camarillo,California,Camarillo,California,CA,Ventura,111
+221,93066,US,34.27980000,-119.01150000,Somis,California,Somis,California,CA,Ventura,111
+222,93210,US,36.16240000,-120.34890000,Coalinga,California,Coalinga,California,CA,Fresno,019
+223,93218,US,35.89160000,-119.04730000,Ducor,California,Ducor,California,CA,Tulare,107
+224,93234,US,36.23710000,-120.10200000,Huron,California,Huron,California,CA,Fresno,019
+225,93251,US,35.30310000,-119.63660000,Mc Kittrick,California,Mc Kittrick,California,CA,Kern,029
+226,93277,US,36.31140000,-119.30650000,Visalia,California,Visalia,California,CA,Tulare,107
+227,93287,US,35.70680000,-118.84390000,Woody,California,Woody,California,CA,Kern,029
+228,93516,US,35.00370000,-117.66290000,Boron,California,Boron,California,CA,Kern,029
+229,93551,US,34.60170000,-118.23100000,Palmdale,California,Palmdale,California,CA,Los Angeles,037
+230,93627,US,36.53160000,-120.09820000,Helm,California,Helm,California,CA,Fresno,019
+231,93648,US,36.61030000,-119.53750000,Parlier,California,Parlier,California,CA,Fresno,019
+232,94014,US,37.68750000,-122.43880000,Daly City,California,Daly City,California,CA,San Mateo,081
+233,94019,US,37.47910000,-122.44590000,Half Moon Bay,California,Half Moon Bay,California,CA,San Mateo,081
+234,94021,US,37.27080000,-122.28070000,Loma Mar,California,Loma Mar,California,CA,San Mateo,081
+235,94027,US,37.45630000,-122.20020000,Atherton,California,Atherton,California,CA,San Mateo,081
+236,94104,US,37.79150000,-122.40180000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+237,94519,US,37.98410000,-122.01190000,Concord,California,Concord,California,CA,Contra Costa,013
+238,94525,US,38.05190000,-122.21770000,Crockett,California,Crockett,California,CA,Contra Costa,013
+239,94533,US,38.26710000,-122.03570000,Fairfield,California,Fairfield,California,CA,Solano,095
+240,94564,US,37.99690000,-122.28750000,Pinole,California,Pinole,California,CA,Contra Costa,013
+241,94569,US,38.04600000,-122.18660000,Port Costa,California,Port Costa,California,CA,Contra Costa,013
+242,94590,US,38.10530000,-122.24740000,Vallejo,California,Vallejo,California,CA,Solano,095
+243,94601,US,37.78060000,-122.21660000,Oakland,California,Oakland,California,CA,Alameda,001
+244,94806,US,37.97240000,-122.33690000,San Pablo,California,San Pablo,California,CA,Contra Costa,013
+245,94903,US,38.03390000,-122.58550000,San Rafael,California,San Rafael,California,CA,Marin,041
+246,94925,US,37.92230000,-122.51320000,Corte Madera,California,Corte Madera,California,CA,Marin,041
+247,94956,US,38.06910000,-122.80690000,Point Reyes Station,California,Point Reyes Station,California,CA,Marin,041
+248,95006,US,37.15470000,-122.13650000,Boulder Creek,California,Boulder Creek,California,CA,Santa Cruz,087
+249,95037,US,37.13530000,-121.65010000,Morgan Hill,California,Morgan Hill,California,CA,Santa Clara,085
+250,95206,US,37.91770000,-121.31230000,Stockton,California,Stockton,California,CA,San Joaquin,077
+251,95209,US,38.03770000,-121.34450000,Stockton,California,Stockton,California,CA,San Joaquin,077
+252,95247,US,38.13450000,-120.45160000,Murphys,California,Murphys,California,CA,Calaveras,009
+253,95313,US,37.42180000,-121.04110000,Crows Landing,California,Crows Landing,California,CA,Stanislaus,099
+254,95348,US,37.33020000,-120.50800000,Merced,California,Merced,California,CA,Merced,047
+255,95355,US,37.67170000,-120.94820000,Modesto,California,Modesto,California,CA,Stanislaus,099
+256,95356,US,37.70050000,-121.02520000,Modesto,California,Modesto,California,CA,Stanislaus,099
+257,95388,US,37.40140000,-120.60450000,Winton,California,Winton,California,CA,Merced,047
+258,95426,US,38.81550000,-122.71320000,Cobb,California,Cobb,California,CA,Lake,033
+259,95460,US,39.31730000,-123.77390000,Mendocino,California,Mendocino,California,CA,Mendocino,045
+260,95525,US,40.93740000,-123.89130000,Blue Lake,California,Blue Lake,California,CA,Humboldt,023
+261,95616,US,38.55380000,-121.74180000,Davis,California,Davis,California,CA,Yolo,113
+262,95628,US,38.65540000,-121.26110000,Fair Oaks,California,Fair Oaks,California,CA,Sacramento,067
+263,95636,US,38.64890000,-120.50980000,Grizzly Flats,California,Grizzly Flats,California,CA,El Dorado,017
+264,95637,US,38.84070000,-122.20360000,Guinda,California,Guinda,California,CA,Yolo,113
+265,95650,US,38.80710000,-121.16980000,Loomis,California,Loomis,California,CA,Placer,061
+266,95661,US,38.73460000,-121.23400000,Roseville,California,Roseville,California,CA,Placer,061
+267,95666,US,38.43190000,-120.57190000,Pioneer,California,Pioneer,California,CA,Amador,005
+268,95728,US,39.31700000,-120.42590000,Soda Springs,California,Soda Springs,California,CA,Nevada,057
+269,95928,US,39.72240000,-121.81130000,Chico,California,Chico,California,CA,Butte,007
+270,95939,US,39.53060000,-122.61240000,Elk Creek,California,Elk Creek,California,CA,Glenn,021
+271,95950,US,39.07440000,-121.89270000,Grimes,California,Grimes,California,CA,Colusa,011
+272,95970,US,39.41680000,-122.05190000,Princeton,California,Princeton,California,CA,Colusa,011
+273,95987,US,39.13370000,-122.21620000,Williams,California,Williams,California,CA,Colusa,011
+274,95993,US,39.12370000,-121.66110000,Yuba City,California,Yuba City,California,CA,Sutter,101
+275,96007,US,40.45740000,-122.32820000,Anderson,California,Anderson,California,CA,Shasta,089
+276,96011,US,40.97490000,-121.82500000,Big Bend,California,Big Bend,California,CA,Shasta,089
+277,96040,US,40.76770000,-121.46370000,Hat Creek,California,Hat Creek,California,CA,Shasta,089
+278,96088,US,40.50500000,-121.88570000,Shingletown,California,Shingletown,California,CA,Shasta,089
+279,96093,US,40.73170000,-122.93530000,Weaverville,California,Weaverville,California,CA,Trinity,105
+280,90001,US,33.97310000,-118.24790000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+281,90005,US,34.05850000,-118.30120000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+282,90029,US,34.09000000,-118.29440000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+283,90044,US,33.95510000,-118.29010000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+284,90240,US,33.95810000,-118.11740000,Downey,California,Downey,California,CA,Los Angeles,037
+285,90255,US,33.97690000,-118.21610000,Huntington Park,California,Huntington Park,California,CA,Los Angeles,037
+286,90263,US,34.00500000,-118.81010000,Malibu,California,Malibu,California,CA,Los Angeles,037
+287,90272,US,34.04810000,-118.52650000,Pacific Palisades,California,Pacific Palisades,California,CA,Los Angeles,037
+288,90732,US,33.74200000,-118.31210000,San Pedro,California,San Pedro,California,CA,Los Angeles,037
+289,90802,US,33.77060000,-118.18200000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+290,90808,US,33.82410000,-118.11030000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+291,91020,US,34.21140000,-118.23050000,Montrose,California,Montrose,California,CA,Los Angeles,037
+292,91108,US,34.12070000,-118.11170000,San Marino,California,San Marino,California,CA,Los Angeles,037
+293,91351,US,34.42620000,-118.44900000,Canyon Country,California,Canyon Country,California,CA,Los Angeles,037
+294,91411,US,34.17810000,-118.45740000,Van Nuys,California,Van Nuys,California,CA,Los Angeles,037
+295,91501,US,34.18620000,-118.30090000,Burbank,California,Burbank,California,CA,Los Angeles,037
+296,91702,US,34.12480000,-117.90310000,Azusa,California,Azusa,California,CA,Los Angeles,037
+297,91731,US,34.07910000,-118.03710000,El Monte,California,El Monte,California,CA,Los Angeles,037
+298,91767,US,34.08120000,-117.73620000,Pomona,California,Pomona,California,CA,Los Angeles,037
+299,91770,US,34.06580000,-118.08530000,Rosemead,California,Rosemead,California,CA,Los Angeles,037
+300,92109,US,32.79690000,-117.24050000,San Diego,California,San Diego,California,CA,San Diego,073
+301,92126,US,32.91610000,-117.14020000,San Diego,California,San Diego,California,CA,San Diego,073
+302,92399,US,34.02820000,-117.04890000,Yucaipa,California,Yucaipa,California,CA,San Bernardino,071
+303,92583,US,33.79670000,-116.93240000,San Jacinto,California,San Jacinto,California,CA,Riverside,065
+304,92629,US,33.47430000,-117.69640000,Dana Point,California,Dana Point,California,CA,Orange,059
+305,92630,US,33.64370000,-117.68680000,Lake Forest,California,Lake Forest,California,CA,Orange,059
+306,92648,US,33.67730000,-118.00510000,Huntington Beach,California,Huntington Beach,California,CA,Orange,059
+307,92651,US,33.54290000,-117.78130000,Laguna Beach,California,Laguna Beach,California,CA,Orange,059
+308,93021,US,34.27840000,-118.87710000,Moorpark,California,Moorpark,California,CA,Ventura,111
+309,93065,US,34.26560000,-118.76530000,Simi Valley,California,Simi Valley,California,CA,Ventura,111
+310,93204,US,35.98770000,-120.12270000,Avenal,California,Avenal,California,CA,Kings,031
+311,93221,US,36.30410000,-119.12930000,Exeter,California,Exeter,California,CA,Tulare,107
+312,93254,US,34.99670000,-119.82380000,New Cuyama,California,New Cuyama,California,CA,Santa Barbara,083
+313,93401,US,35.26350000,-120.65090000,San Luis Obispo,California,San Luis Obispo,California,CA,San Luis Obispo,079
+314,93440,US,34.74570000,-120.20490000,Los Alamos,California,Los Alamos,California,CA,Santa Barbara,083
+315,93445,US,35.10190000,-120.60800000,Oceano,California,Oceano,California,CA,San Luis Obispo,079
+316,93449,US,35.15780000,-120.65220000,Pismo Beach,California,Pismo Beach,California,CA,San Luis Obispo,079
+317,93513,US,37.16790000,-118.29160000,Big Pine,California,Big Pine,California,CA,Inyo,027
+318,93528,US,35.37080000,-117.64270000,Johannesburg,California,Johannesburg,California,CA,Kern,029
+319,93618,US,36.53490000,-119.39090000,Dinuba,California,Dinuba,California,CA,Tulare,107
+320,93638,US,37.04020000,-120.03350000,Madera,California,Madera,California,CA,Madera,039
+321,93664,US,37.13970000,-119.27300000,Shaver Lake,California,Shaver Lake,California,CA,Fresno,019
+322,93702,US,36.74000000,-119.75320000,Fresno,California,Fresno,California,CA,Fresno,019
+323,93925,US,36.59500000,-121.43200000,Chualar,California,Chualar,California,CA,Monterey,053
+324,94028,US,37.37020000,-122.21820000,Portola Valley,California,Portola Valley,California,CA,San Mateo,081
+325,94061,US,37.46470000,-122.23040000,Redwood City,California,Redwood City,California,CA,San Mateo,081
+326,94063,US,37.48150000,-122.20910000,Redwood City,California,Redwood City,California,CA,San Mateo,081
+327,94121,US,37.77860000,-122.48920000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+328,94132,US,37.72110000,-122.47540000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+329,94521,US,37.95750000,-121.97500000,Concord,California,Concord,California,CA,Contra Costa,013
+330,94553,US,37.98640000,-122.13500000,Martinez,California,Martinez,California,CA,Contra Costa,013
+331,94556,US,37.84370000,-122.12420000,Moraga,California,Moraga,California,CA,Contra Costa,013
+332,94561,US,37.99400000,-121.70360000,Oakley,California,Oakley,California,CA,Contra Costa,013
+333,94602,US,37.80110000,-122.21040000,Oakland,California,Oakland,California,CA,Alameda,001
+334,94608,US,37.83650000,-122.28040000,Emeryville,California,Emeryville,California,CA,Alameda,001
+335,94801,US,37.94000000,-122.36200000,Richmond,California,Richmond,California,CA,Contra Costa,013
+336,94939,US,37.93670000,-122.53620000,Larkspur,California,Larkspur,California,CA,Marin,041
+337,95005,US,37.08820000,-122.08870000,Ben Lomond,California,Ben Lomond,California,CA,Santa Cruz,087
+338,95008,US,37.28030000,-121.95390000,Campbell,California,Campbell,California,CA,Santa Clara,085
+339,95017,US,37.04230000,-122.21370000,Davenport,California,Davenport,California,CA,Santa Cruz,087
+340,95136,US,37.26850000,-121.84900000,San Jose,California,San Jose,California,CA,Santa Clara,085
+341,95139,US,37.22520000,-121.76870000,San Jose,California,San Jose,California,CA,Santa Clara,085
+342,95251,US,38.10130000,-120.46760000,Vallecito,California,Vallecito,California,CA,Calaveras,009
+343,95258,US,38.15510000,-121.30860000,Woodbridge,California,Woodbridge,California,CA,San Joaquin,077
+344,95315,US,37.42730000,-120.77520000,Delhi,California,Delhi,California,CA,Merced,047
+345,95367,US,37.72980000,-120.94200000,Riverbank,California,Riverbank,California,CA,Stanislaus,099
+346,95407,US,38.40890000,-122.73390000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+347,95422,US,38.95760000,-122.63600000,Clearlake,California,Clearlake,California,CA,Lake,033
+348,95453,US,39.04700000,-122.93280000,Lakeport,California,Lakeport,California,CA,Lake,033
+349,95458,US,39.07830000,-122.78460000,Lucerne,California,Lucerne,California,CA,Lake,033
+350,95497,US,38.72560000,-123.46750000,The Sea Ranch,California,The Sea Ranch,California,CA,Sonoma,097
+351,95526,US,40.46930000,-123.79980000,Bridgeville,California,Bridgeville,California,CA,Humboldt,023
+352,95542,US,40.08640000,-123.79910000,Garberville,California,Garberville,California,CA,Humboldt,023
+353,95602,US,38.98290000,-121.09440000,Auburn,California,Auburn,California,CA,Placer,061
+354,95651,US,38.82780000,-120.92380000,Lotus,California,Lotus,California,CA,El Dorado,017
+355,95655,US,38.55790000,-121.29100000,Mather,California,Mather,California,CA,Sacramento,067
+356,95683,US,38.51430000,-121.09640000,Sloughhouse,California,Sloughhouse,California,CA,Sacramento,067
+357,95829,US,38.46890000,-121.34400000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+358,95919,US,39.45250000,-121.26120000,Brownsville,California,Brownsville,California,CA,Yuba,115
+359,95941,US,39.52100000,-121.24230000,Forbestown,California,Forbestown,California,CA,Butte,007
+360,96002,US,40.54860000,-122.33390000,Redding,California,Redding,California,CA,Shasta,089
+361,96019,US,40.69690000,-122.36830000,Shasta Lake,California,Shasta Lake,California,CA,Shasta,089
+362,96044,US,41.90770000,-122.52650000,Hornbrook,California,Hornbrook,California,CA,Siskiyou,093
+363,96063,US,40.35640000,-121.57100000,Mineral,California,Mineral,California,CA,Tehama,103
+364,96091,US,41.06150000,-122.72390000,Trinity Center,California,Trinity Center,California,CA,Trinity,105
+365,90059,US,33.92930000,-118.24630000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+366,90242,US,33.92180000,-118.13950000,Downey,California,Downey,California,CA,Los Angeles,037
+367,90304,US,33.93790000,-118.35860000,Inglewood,California,Inglewood,California,CA,Los Angeles,037
+368,90503,US,33.83970000,-118.35420000,Torrance,California,Torrance,California,CA,Los Angeles,037
+369,90605,US,33.94130000,-118.03560000,Whittier,California,Whittier,California,CA,Los Angeles,037
+370,90706,US,33.88670000,-118.12650000,Bellflower,California,Bellflower,California,CA,Los Angeles,037
+371,90723,US,33.89690000,-118.16320000,Paramount,California,Paramount,California,CA,Los Angeles,037
+372,91011,US,34.22170000,-118.20510000,La Canada Flintridge,California,La Canada Flintridge,California,CA,Los Angeles,037
+373,91331,US,34.25560000,-118.42080000,Pacoima,California,Pacoima,California,CA,Los Angeles,037
+374,91354,US,34.44660000,-118.53740000,Valencia,California,Valencia,California,CA,Los Angeles,037
+375,91360,US,34.20920000,-118.87390000,Thousand Oaks,California,Thousand Oaks,California,CA,Ventura,111
+376,91362,US,34.19480000,-118.82320000,Thousand Oaks,California,Thousand Oaks,California,CA,Ventura,111
+377,91423,US,34.15260000,-118.43220000,Sherman Oaks,California,Sherman Oaks,California,CA,Los Angeles,037
+378,91737,US,34.14670000,-117.58030000,Rancho Cucamonga,California,Rancho Cucamonga,California,CA,San Bernardino,071
+379,91740,US,34.12870000,-117.85520000,Glendora,California,Glendora,California,CA,Los Angeles,037
+380,91776,US,34.08900000,-118.09550000,San Gabriel,California,San Gabriel,California,CA,Los Angeles,037
+381,91801,US,34.09140000,-118.12930000,Alhambra,California,Alhambra,California,CA,Los Angeles,037
+382,91948,US,32.86760000,-116.42060000,Mount Laguna,California,Mount Laguna,California,CA,San Diego,073
+383,92078,US,33.11930000,-117.18500000,San Marcos,California,San Marcos,California,CA,San Diego,073
+384,92104,US,32.74540000,-117.12720000,San Diego,California,San Diego,California,CA,San Diego,073
+385,92110,US,32.76350000,-117.20280000,San Diego,California,San Diego,California,CA,San Diego,073
+386,92114,US,32.70590000,-117.05240000,San Diego,California,San Diego,California,CA,San Diego,073
+387,92115,US,32.76070000,-117.07210000,San Diego,California,San Diego,California,CA,San Diego,073
+388,92123,US,32.79730000,-117.13920000,San Diego,California,San Diego,California,CA,San Diego,073
+389,92243,US,32.78930000,-115.56650000,El Centro,California,El Centro,California,CA,Imperial,025
+390,90033,US,34.04870000,-118.20840000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+391,90034,US,34.02900000,-118.40050000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+392,90037,US,34.00300000,-118.28630000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+393,90062,US,34.00320000,-118.30730000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+394,90064,US,34.03530000,-118.42590000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+395,90067,US,34.05510000,-118.40950000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+396,90241,US,33.94160000,-118.13060000,Downey,California,Downey,California,CA,Los Angeles,037
+397,90247,US,33.89250000,-118.29610000,Gardena,California,Gardena,California,CA,Los Angeles,037
+398,90250,US,33.91430000,-118.34930000,Hawthorne,California,Hawthorne,California,CA,Los Angeles,037
+399,90278,US,33.87070000,-118.37150000,Redondo Beach,California,Redondo Beach,California,CA,Los Angeles,037
+400,90402,US,34.03490000,-118.50300000,Santa Monica,California,Santa Monica,California,CA,Los Angeles,037
+401,90701,US,33.86540000,-118.07310000,Artesia,California,Artesia,California,CA,Los Angeles,037
+402,90742,US,33.71640000,-118.06900000,Sunset Beach,California,Sunset Beach,California,CA,Orange,059
+403,91706,US,34.09640000,-117.96820000,Baldwin Park,California,Baldwin Park,California,CA,Los Angeles,037
+404,91709,US,33.97970000,-117.73080000,Chino Hills,California,Chino Hills,California,CA,San Bernardino,071
+405,91745,US,33.99770000,-117.96520000,Hacienda Heights,California,Hacienda Heights,California,CA,Los Angeles,037
+406,91750,US,34.11590000,-117.77080000,La Verne,California,La Verne,California,CA,Los Angeles,037
+407,91761,US,34.03160000,-117.61870000,Ontario,California,Ontario,California,CA,San Bernardino,071
+408,91775,US,34.11550000,-118.08570000,San Gabriel,California,San Gabriel,California,CA,Los Angeles,037
+409,91911,US,32.60840000,-117.05650000,Chula Vista,California,Chula Vista,California,CA,San Diego,073
+410,91916,US,32.87300000,-116.60270000,Descanso,California,Descanso,California,CA,San Diego,073
+411,91962,US,32.83500000,-116.51270000,Pine Valley,California,Pine Valley,California,CA,San Diego,073
+412,92036,US,33.05340000,-116.56580000,Julian,California,Julian,California,CA,San Diego,073
+413,92037,US,32.84550000,-117.25210000,La Jolla,California,La Jolla,California,CA,San Diego,073
+414,92067,US,33.00500000,-117.21570000,Rancho Santa Fe,California,Rancho Santa Fe,California,CA,San Diego,073
+415,92086,US,33.30960000,-116.65270000,Warner Springs,California,Warner Springs,California,CA,San Diego,073
+416,92102,US,32.71390000,-117.12190000,San Diego,California,San Diego,California,CA,San Diego,073
+417,92106,US,32.72720000,-117.22680000,San Diego,California,San Diego,California,CA,San Diego,073
+418,92173,US,32.56260000,-117.04300000,San Ysidro,California,San Ysidro,California,CA,San Diego,073
+419,92230,US,33.90860000,-116.77390000,Cabazon,California,Cabazon,California,CA,Riverside,065
+420,92231,US,32.68320000,-115.50280000,Calexico,California,Calexico,California,CA,Imperial,025
+421,92234,US,33.80980000,-116.46650000,Cathedral City,California,Cathedral City,California,CA,Riverside,065
+422,92256,US,34.06060000,-116.56560000,Morongo Valley,California,Morongo Valley,California,CA,San Bernardino,071
+423,92266,US,33.36960000,-114.73550000,Palo Verde,California,Palo Verde,California,CA,Imperial,025
+424,92281,US,33.03800000,-115.59140000,Westmorland,California,Westmorland,California,CA,Imperial,025
+425,92282,US,33.98900000,-116.65660000,Whitewater,California,Whitewater,California,CA,Riverside,065
+426,92316,US,34.06620000,-117.39930000,Bloomington,California,Bloomington,California,CA,San Bernardino,071
+427,92336,US,34.11730000,-117.43780000,Fontana,California,Fontana,California,CA,San Bernardino,071
+428,92359,US,34.07740000,-117.11260000,Mentone,California,Mentone,California,CA,San Bernardino,071
+429,92364,US,35.46670000,-115.27220000,Nipton,California,Nipton,California,CA,San Bernardino,071
+430,92372,US,34.44290000,-117.64030000,Pinon Hills,California,Pinon Hills,California,CA,San Bernardino,071
+431,92384,US,35.97300000,-116.27110000,Shoshone,California,Shoshone,California,CA,Inyo,027
+432,92398,US,34.90500000,-116.82030000,Yermo,California,Yermo,California,CA,San Bernardino,071
+433,92504,US,33.93150000,-117.41190000,Riverside,California,Riverside,California,CA,Riverside,065
+434,92553,US,33.91570000,-117.23510000,Moreno Valley,California,Moreno Valley,California,CA,Riverside,065
+435,92584,US,33.66470000,-117.17430000,Menifee,California,Menifee,California,CA,Riverside,065
+436,92591,US,33.52170000,-117.12860000,Temecula,California,Temecula,California,CA,Riverside,065
+437,92596,US,33.62430000,-117.08850000,Winchester,California,Winchester,California,CA,Riverside,065
+438,92610,US,33.67480000,-117.66490000,Foothill Ranch,California,Foothill Ranch,California,CA,Orange,059
+439,92708,US,33.71020000,-117.95030000,Fountain Valley,California,Fountain Valley,California,CA,Orange,059
+440,92802,US,33.80850000,-117.92280000,Anaheim,California,Anaheim,California,CA,Orange,059
+441,93030,US,34.21410000,-119.17500000,Oxnard,California,Oxnard,California,CA,Ventura,111
+442,93206,US,35.40330000,-119.46590000,Buttonwillow,California,Buttonwillow,California,CA,Kern,029
+443,93256,US,35.95530000,-119.25640000,Pixley,California,Pixley,California,CA,Tulare,107
+444,93267,US,36.14720000,-119.07920000,Strathmore,California,Strathmore,California,CA,Tulare,107
+445,93286,US,36.43130000,-119.09180000,Woodlake,California,Woodlake,California,CA,Tulare,107
+446,93301,US,35.38660000,-119.01710000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+447,93313,US,35.29740000,-119.05090000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+448,93432,US,35.47790000,-120.43610000,Creston,California,Creston,California,CA,San Luis Obispo,079
+449,93441,US,34.66780000,-120.11490000,Los Olivos,California,Los Olivos,California,CA,Santa Barbara,083
+450,93460,US,34.62400000,-120.07130000,Santa Ynez,California,Santa Ynez,California,CA,Santa Barbara,083
+451,93461,US,35.65130000,-120.37200000,Shandon,California,Shandon,California,CA,San Luis Obispo,079
+452,93512,US,37.89260000,-118.56470000,Benton,California,Benton,California,CA,Mono,051
+453,93514,US,37.50140000,-118.40480000,Bishop,California,Bishop,California,CA,Inyo,027
+454,93645,US,37.16390000,-119.66520000,O Neals,California,O Neals,California,CA,Madera,039
+455,93701,US,36.74870000,-119.78670000,Fresno,California,Fresno,California,CA,Fresno,019
+456,94022,US,37.38140000,-122.12580000,Los Altos,California,Los Altos,California,CA,Santa Clara,085
+457,94030,US,37.60040000,-122.40200000,Millbrae,California,Millbrae,California,CA,San Mateo,081
+458,94037,US,37.54280000,-122.50520000,Montara,California,Montara,California,CA,San Mateo,081
+459,94044,US,37.61960000,-122.48160000,Pacifica,California,Pacifica,California,CA,San Mateo,081
+460,94115,US,37.78560000,-122.43580000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+461,94127,US,37.73540000,-122.45710000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+462,94306,US,37.41800000,-122.12740000,Palo Alto,California,Palo Alto,California,CA,Santa Clara,085
+463,94511,US,38.02660000,-121.64250000,Bethel Island,California,Bethel Island,California,CA,Contra Costa,013
+464,94530,US,37.91560000,-122.29850000,El Cerrito,California,El Cerrito,California,CA,Contra Costa,013
+465,94535,US,38.27430000,-121.94630000,Travis Afb,California,Travis Afb,California,CA,Solano,095
+466,94536,US,37.56050000,-121.99990000,Fremont,California,Fremont,California,CA,Alameda,001
+467,94592,US,38.09680000,-122.26990000,Vallejo,California,Vallejo,California,CA,Solano,095
+468,94599,US,38.40160000,-122.36080000,Yountville,California,Yountville,California,CA,Napa,055
+469,94619,US,37.78780000,-122.18840000,Oakland,California,Oakland,California,CA,Alameda,001
+470,94621,US,37.75890000,-122.18530000,Oakland,California,Oakland,California,CA,Alameda,001
+471,94703,US,37.86300000,-122.27490000,Berkeley,California,Berkeley,California,CA,Alameda,001
+472,94951,US,38.31530000,-122.64830000,Penngrove,California,Penngrove,California,CA,Sonoma,097
+473,95007,US,37.10630000,-122.10500000,Brookdale,California,Brookdale,California,CA,Santa Cruz,087
+474,95012,US,36.76580000,-121.75800000,Castroville,California,Castroville,California,CA,Monterey,053
+475,95113,US,37.33290000,-121.89160000,San Jose,California,San Jose,California,CA,Santa Clara,085
+476,95132,US,37.40310000,-121.85850000,San Jose,California,San Jose,California,CA,Santa Clara,085
+477,95203,US,37.95320000,-121.31160000,Stockton,California,Stockton,California,CA,San Joaquin,077
+478,95230,US,37.92990000,-121.00020000,Farmington,California,Farmington,California,CA,San Joaquin,077
+479,95233,US,38.19190000,-120.36440000,Hathaway Pines,California,Hathaway Pines,California,CA,Calaveras,009
+480,95242,US,38.13080000,-121.33450000,Lodi,California,Lodi,California,CA,San Joaquin,077
+481,95254,US,38.19830000,-120.97930000,Wallace,California,Wallace,California,CA,Calaveras,009
+482,95317,US,37.13910000,-120.52510000,El Nido,California,El Nido,California,CA,Merced,047
+483,95326,US,37.59640000,-120.86270000,Hughson,California,Hughson,California,CA,Stanislaus,099
+484,95386,US,37.65200000,-120.72920000,Waterford,California,Waterford,California,CA,Stanislaus,099
+485,95410,US,39.21310000,-123.72000000,Albion,California,Albion,California,CA,Mendocino,045
+486,95429,US,39.71680000,-123.35330000,Dos Rios,California,Dos Rios,California,CA,Mendocino,045
+487,95442,US,38.36620000,-122.51960000,Glen Ellen,California,Glen Ellen,California,CA,Sonoma,097
+488,95443,US,39.02630000,-122.73300000,Glenhaven,California,Glenhaven,California,CA,Lake,033
+489,95451,US,38.94210000,-122.77770000,Kelseyville,California,Kelseyville,California,CA,Lake,033
+490,95454,US,39.66270000,-123.49290000,Laytonville,California,Laytonville,California,CA,Mendocino,045
+491,95459,US,39.00970000,-123.65230000,Manchester,California,Manchester,California,CA,Mendocino,045
+492,95470,US,39.27790000,-123.22430000,Redwood Valley,California,Redwood Valley,California,CA,Mendocino,045
+493,95626,US,38.72330000,-121.44970000,Elverta,California,Elverta,California,CA,Sacramento,067
+494,95682,US,38.64650000,-120.96410000,Shingle Springs,California,Shingle Springs,California,CA,El Dorado,017
+495,95688,US,38.38470000,-121.98870000,Vacaville,California,Vacaville,California,CA,Solano,095
+496,95709,US,38.74700000,-120.67430000,Camino,California,Camino,California,CA,El Dorado,017
+497,95726,US,38.77080000,-120.54270000,Pollock Pines,California,Pollock Pines,California,CA,El Dorado,017
+498,95747,US,38.77030000,-121.33720000,Roseville,California,Roseville,California,CA,Placer,061
+499,95817,US,38.54980000,-121.45830000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+500,95820,US,38.53470000,-121.44510000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+501,95903,US,39.11150000,-121.36040000,Beale Afb,California,Beale Afb,California,CA,Yuba,115
+502,95922,US,39.45180000,-121.04860000,Camptonville,California,Camptonville,California,CA,Yuba,115
+503,95932,US,39.23450000,-122.02770000,Colusa,California,Colusa,California,CA,Colusa,011
+504,95943,US,39.60690000,-122.03840000,Glenn,California,Glenn,California,CA,Glenn,021
+505,95947,US,40.16990000,-120.90140000,Greenville,California,Greenville,California,CA,Plumas,063
+506,95953,US,39.26010000,-121.69230000,Live Oak,California,Live Oak,California,CA,Sutter,101
+507,96015,US,41.46640000,-120.92180000,Canby,California,Canby,California,CA,Modoc,049
+508,96031,US,41.21910000,-123.23630000,Forks Of Salmon,California,Forks Of Salmon,California,CA,Siskiyou,093
+509,96037,US,41.54030000,-122.93660000,Greenview,California,Greenview,California,CA,Siskiyou,093
+510,96048,US,40.74110000,-123.07180000,Junction City,California,Junction City,California,CA,Trinity,105
+511,96054,US,41.23470000,-121.21560000,Lookout,California,Lookout,California,CA,Modoc,049
+512,96058,US,41.88300000,-121.94450000,Macdoel,California,Macdoel,California,CA,Siskiyou,093
+513,96119,US,40.97660000,-120.55480000,Madeline,California,Madeline,California,CA,Lassen,035
+514,96121,US,40.18280000,-120.38950000,Milford,California,Milford,California,CA,Lassen,035
+515,96146,US,39.17520000,-120.19540000,Olympic Valley,California,Olympic Valley,California,CA,Placer,061
+516,90011,US,34.00790000,-118.25820000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+517,90036,US,34.06990000,-118.34920000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+518,90222,US,33.90990000,-118.23570000,Compton,California,Compton,California,CA,Los Angeles,037
+519,90301,US,33.95500000,-118.35560000,Inglewood,California,Inglewood,California,CA,Los Angeles,037
+520,90305,US,33.95830000,-118.32590000,Inglewood,California,Inglewood,California,CA,Los Angeles,037
+521,90403,US,34.02870000,-118.49240000,Santa Monica,California,Santa Monica,California,CA,Los Angeles,037
+522,90638,US,33.90670000,-118.01010000,La Mirada,California,La Mirada,California,CA,Los Angeles,037
+523,90703,US,33.86690000,-118.06860000,Cerritos,California,Cerritos,California,CA,Los Angeles,037
+524,90815,US,33.79390000,-118.11920000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+525,91201,US,34.17160000,-118.28990000,Glendale,California,Glendale,California,CA,Los Angeles,037
+526,91208,US,34.19210000,-118.23500000,Glendale,California,Glendale,California,CA,Los Angeles,037
+527,91324,US,34.23670000,-118.54660000,Northridge,California,Northridge,California,CA,Los Angeles,037
+528,91352,US,34.22090000,-118.36990000,Sun Valley,California,Sun Valley,California,CA,Los Angeles,037
+529,91355,US,34.39850000,-118.55350000,Valencia,California,Valencia,California,CA,Los Angeles,037
+530,91356,US,34.16710000,-118.54140000,Tarzana,California,Tarzana,California,CA,Los Angeles,037
+531,91607,US,34.16720000,-118.39890000,Valley Village,California,Valley Village,California,CA,Los Angeles,037
+532,91755,US,34.04800000,-118.11500000,Monterey Park,California,Monterey Park,California,CA,Los Angeles,037
+533,91766,US,34.04180000,-117.75690000,Pomona,California,Pomona,California,CA,Los Angeles,037
+534,92004,US,33.23860000,-116.35140000,Borrego Springs,California,Borrego Springs,California,CA,San Diego,073
+535,92203,US,33.75320000,-116.26760000,Indio,California,Indio,California,CA,Riverside,065
+536,92227,US,32.97920000,-115.52960000,Brawley,California,Brawley,California,CA,Imperial,025
+537,92267,US,34.28720000,-114.14300000,Parker Dam,California,Parker Dam,California,CA,San Bernardino,071
+538,92278,US,34.23800000,-116.06040000,Twentynine Palms,California,Twentynine Palms,California,CA,San Bernardino,071
+539,92284,US,34.15590000,-116.43130000,Yucca Valley,California,Yucca Valley,California,CA,San Bernardino,071
+540,92501,US,33.99240000,-117.36940000,Riverside,California,Riverside,California,CA,Riverside,065
+541,92562,US,33.56310000,-117.27380000,Murrieta,California,Murrieta,California,CA,Riverside,065
+542,92595,US,33.60210000,-117.26400000,Wildomar,California,Wildomar,California,CA,Riverside,065
+543,92626,US,33.68010000,-117.90850000,Costa Mesa,California,Costa Mesa,California,CA,Orange,059
+544,92660,US,33.62950000,-117.86840000,Newport Beach,California,Newport Beach,California,CA,Orange,059
+545,92688,US,33.65120000,-117.59380000,Rancho Santa Margarita,California,Rancho Santa Margarita,California,CA,Orange,059
+546,92694,US,33.54720000,-117.62380000,Ladera Ranch,California,Ladera Ranch,California,CA,Orange,059
+547,92782,US,33.73460000,-117.78690000,Tustin,California,Tustin,California,CA,Orange,059
+548,92821,US,33.92910000,-117.88450000,Brea,California,Brea,California,CA,Orange,059
+549,92833,US,33.87660000,-117.95510000,Fullerton,California,Fullerton,California,CA,Orange,059
+550,92841,US,33.78170000,-117.97660000,Garden Grove,California,Garden Grove,California,CA,Orange,059
+551,92869,US,33.78680000,-117.79340000,Orange,California,Orange,California,CA,Orange,059
+552,92870,US,33.87440000,-117.85430000,Placentia,California,Placentia,California,CA,Orange,059
+553,93012,US,34.22180000,-118.98660000,Camarillo,California,Camarillo,California,CA,Ventura,111
+554,93023,US,34.44510000,-119.25650000,Ojai,California,Ojai,California,CA,Ventura,111
+555,93041,US,34.16260000,-119.19730000,Port Hueneme,California,Port Hueneme,California,CA,Ventura,111
+556,93063,US,34.30460000,-118.68440000,Simi Valley,California,Simi Valley,California,CA,Ventura,111
+557,93109,US,34.40380000,-119.71940000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+558,93207,US,35.88180000,-118.65610000,California Hot Springs,California,California Hot Springs,California,CA,Tulare,107
+559,93235,US,36.38560000,-119.21890000,Ivanhoe,California,Ivanhoe,California,CA,Tulare,107
+560,93249,US,35.61630000,-119.69430000,Lost Hills,California,Lost Hills,California,CA,Kern,029
+561,93257,US,36.06860000,-119.03150000,Porterville,California,Porterville,California,CA,Tulare,107
+562,93266,US,36.17900000,-119.82360000,Stratford,California,Stratford,California,CA,Kings,031
+563,93283,US,35.63910000,-118.28590000,Weldon,California,Weldon,California,CA,Kern,029
+564,93424,US,35.18000000,-120.73180000,Avila Beach,California,Avila Beach,California,CA,San Luis Obispo,079
+565,93437,US,34.75320000,-120.51710000,Lompoc,California,Lompoc,California,CA,Santa Barbara,083
+566,93451,US,35.90040000,-120.59290000,San Miguel,California,San Miguel,California,CA,San Luis Obispo,079
+567,93505,US,35.12780000,-117.96510000,California City,California,California City,California,CA,Kern,029
+568,93510,US,34.48350000,-118.19590000,Acton,California,Acton,California,CA,Los Angeles,037
+569,93517,US,38.25660000,-119.20800000,Bridgeport,California,Bridgeport,California,CA,Mono,051
+570,93601,US,37.40760000,-119.72330000,Ahwahnee,California,Ahwahnee,California,CA,Madera,039
+571,93605,US,37.20320000,-119.24920000,Big Creek,California,Big Creek,California,CA,Fresno,019
+572,93611,US,36.82530000,-119.68020000,Clovis,California,Clovis,California,CA,Fresno,019
+573,93626,US,37.04220000,-119.68070000,Friant,California,Friant,California,CA,Fresno,019
+574,93631,US,36.50800000,-119.54330000,Kingsburg,California,Kingsburg,California,CA,Fresno,019
+575,93634,US,37.25300000,-119.17480000,Lakeshore,California,Lakeshore,California,CA,Fresno,019
+576,93666,US,36.54550000,-119.34010000,Sultana,California,Sultana,California,CA,Tulare,107
+577,93908,US,36.60110000,-121.67290000,Salinas,California,Salinas,California,CA,Monterey,053
+578,94025,US,37.43960000,-122.18640000,Menlo Park,California,Menlo Park,California,CA,San Mateo,081
+579,94080,US,37.65740000,-122.42350000,South San Francisco,California,South San Francisco,California,CA,San Mateo,081
+580,94301,US,37.44430000,-122.14970000,Palo Alto,California,Palo Alto,California,CA,Santa Clara,085
+581,94403,US,37.53950000,-122.29980000,San Mateo,California,San Mateo,California,CA,San Mateo,081
+582,94546,US,37.70150000,-122.07820000,Castro Valley,California,Castro Valley,California,CA,Alameda,001
+583,94565,US,38.00310000,-121.91720000,Pittsburg,California,Pittsburg,California,CA,Contra Costa,013
+584,94571,US,38.16370000,-121.70160000,Rio Vista,California,Rio Vista,California,CA,Solano,095
+585,94605,US,37.76410000,-122.16330000,Oakland,California,Oakland,California,CA,Alameda,001
+586,94929,US,38.25080000,-122.96530000,Dillon Beach,California,Dillon Beach,California,CA,Marin,041
+587,94946,US,38.05460000,-122.69640000,Nicasio,California,Nicasio,California,CA,Marin,041
+588,94964,US,37.94160000,-122.48440000,San Quentin,California,San Quentin,California,CA,Marin,041
+589,95018,US,37.06620000,-122.06180000,Felton,California,Felton,California,CA,Santa Cruz,087
+590,95231,US,37.87800000,-121.28270000,French Camp,California,French Camp,California,CA,San Joaquin,077
+591,95312,US,37.41970000,-120.66630000,Cressey,California,Cressey,California,CA,Merced,047
+592,95329,US,37.68990000,-120.38510000,La Grange,California,La Grange,California,CA,Stanislaus,099
+593,95345,US,37.57570000,-119.96010000,Midpines,California,Midpines,California,CA,Mariposa,043
+594,95346,US,38.06750000,-120.17940000,Mi Wuk Village,California,Mi Wuk Village,California,CA,Tuolumne,109
+595,95382,US,37.52390000,-120.85170000,Turlock,California,Turlock,California,CA,Stanislaus,099
+596,95383,US,38.04540000,-120.21780000,Twain Harte,California,Twain Harte,California,CA,Tuolumne,109
+597,95421,US,38.59180000,-123.19650000,Cazadero,California,Cazadero,California,CA,Sonoma,097
+598,95432,US,39.15930000,-123.72190000,Elk,California,Elk,California,CA,Mendocino,045
+599,95536,US,40.52590000,-124.25140000,Ferndale,California,Ferndale,California,CA,Humboldt,023
+600,95553,US,40.23970000,-123.80770000,Miranda,California,Miranda,California,CA,Humboldt,023
+601,95568,US,41.45330000,-123.46340000,Somes Bar,California,Somes Bar,California,CA,Siskiyou,093
+602,95607,US,38.72090000,-122.09120000,Capay,California,Capay,California,CA,Yolo,113
+603,95615,US,38.31370000,-121.56300000,Courtland,California,Courtland,California,CA,Sacramento,067
+604,95620,US,38.44030000,-121.80880000,Dixon,California,Dixon,California,CA,Solano,095
+605,95625,US,38.34820000,-121.91000000,Elmira,California,Elmira,California,CA,Solano,095
+606,95642,US,38.35450000,-120.75730000,Jackson,California,Jackson,California,CA,Amador,005
+607,95648,US,38.89420000,-121.29080000,Lincoln,California,Lincoln,California,CA,Placer,061
+608,95832,US,38.46950000,-121.48830000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+609,95833,US,38.61570000,-121.50530000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+610,95841,US,38.66270000,-121.34060000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+611,95916,US,39.67760000,-121.36890000,Berry Creek,California,Berry Creek,California,CA,Butte,007
+612,95946,US,39.20190000,-121.20260000,Penn Valley,California,Penn Valley,California,CA,Nevada,057
+613,95951,US,39.73860000,-122.00850000,Hamilton City,California,Hamilton City,California,CA,Glenn,021
+614,95956,US,39.92960000,-121.06080000,Meadow Valley,California,Meadow Valley,California,CA,Plumas,063
+615,96001,US,40.56050000,-122.41160000,Redding,California,Redding,California,CA,Shasta,089
+616,96029,US,39.90240000,-122.49180000,Flournoy,California,Flournoy,California,CA,Tehama,103
+617,96055,US,40.04970000,-122.09920000,Los Molinos,California,Los Molinos,California,CA,Tehama,103
+618,96086,US,41.88660000,-123.24380000,Seiad Valley,California,Seiad Valley,California,CA,Siskiyou,093
+619,96087,US,40.61090000,-122.49680000,Shasta,California,Shasta,California,CA,Shasta,089
+620,90002,US,33.94970000,-118.24620000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+621,90013,US,34.04480000,-118.24340000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+622,90018,US,34.02900000,-118.31520000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+623,90040,US,33.99090000,-118.15320000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+624,90045,US,33.96310000,-118.39410000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+625,90047,US,33.95690000,-118.30730000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+626,90212,US,34.06190000,-118.39950000,Beverly Hills,California,Beverly Hills,California,CA,Los Angeles,037
+627,90404,US,34.02680000,-118.47330000,Santa Monica,California,Santa Monica,California,CA,Los Angeles,037
+628,90744,US,33.78550000,-118.26450000,Wilmington,California,Wilmington,California,CA,Los Angeles,037
+629,90745,US,33.82300000,-118.26840000,Carson,California,Carson,California,CA,Los Angeles,037
+630,90803,US,33.76190000,-118.13410000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+631,91040,US,34.26180000,-118.33710000,Sunland,California,Sunland,California,CA,Los Angeles,037
+632,91101,US,34.14680000,-118.13910000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+633,91307,US,34.19630000,-118.63890000,West Hills,California,West Hills,California,CA,Los Angeles,037
+634,91350,US,34.43360000,-118.50070000,Santa Clarita,California,Santa Clarita,California,CA,Los Angeles,037
+635,91361,US,34.14720000,-118.83830000,Westlake Village,California,Westlake Village,California,CA,Ventura,111
+636,91405,US,34.20010000,-118.44560000,Van Nuys,California,Van Nuys,California,CA,Los Angeles,037
+637,91733,US,34.05570000,-118.04440000,South El Monte,California,South El Monte,California,CA,Los Angeles,037
+638,91762,US,34.05840000,-117.66650000,Ontario,California,Ontario,California,CA,San Bernardino,071
+639,91786,US,34.11440000,-117.65830000,Upland,California,Upland,California,CA,San Bernardino,071
+640,91913,US,32.65130000,-116.98520000,Chula Vista,California,Chula Vista,California,CA,San Diego,073
+641,91963,US,32.62050000,-116.60370000,Potrero,California,Potrero,California,CA,San Diego,073
+642,91980,US,32.58890000,-116.61920000,Tecate,California,Tecate,California,CA,San Diego,073
+643,92008,US,33.16020000,-117.32500000,Carlsbad,California,Carlsbad,California,CA,San Diego,073
+644,92019,US,32.77770000,-116.91910000,El Cajon,California,El Cajon,California,CA,San Diego,073
+645,92020,US,32.79280000,-116.96650000,El Cajon,California,El Cajon,California,CA,San Diego,073
+646,92040,US,32.85620000,-116.92010000,Lakeside,California,Lakeside,California,CA,San Diego,073
+647,92060,US,33.32280000,-116.87860000,Palomar Mountain,California,Palomar Mountain,California,CA,San Diego,073
+648,92065,US,33.02930000,-116.85350000,Ramona,California,Ramona,California,CA,San Diego,073
+649,92071,US,32.84860000,-116.98620000,Santee,California,Santee,California,CA,San Diego,073
+650,92082,US,33.24900000,-117.01220000,Valley Center,California,Valley Center,California,CA,San Diego,073
+651,92083,US,33.19780000,-117.24820000,Vista,California,Vista,California,CA,San Diego,073
+652,92260,US,33.72250000,-116.37700000,Palm Desert,California,Palm Desert,California,CA,Riverside,065
+653,92301,US,34.58410000,-117.42420000,Adelanto,California,Adelanto,California,CA,San Bernardino,071
+654,92327,US,34.86680000,-116.88760000,Daggett,California,Daggett,California,CA,San Bernardino,071
+655,92536,US,33.44730000,-116.79970000,Aguanga,California,Aguanga,California,CA,Riverside,065
+656,92618,US,33.70740000,-117.70540000,Irvine,California,Irvine,California,CA,Orange,059
+657,92835,US,33.89940000,-117.90630000,Fullerton,California,Fullerton,California,CA,Orange,059
+658,92860,US,33.92470000,-117.55170000,Norco,California,Norco,California,CA,Riverside,065
+659,92880,US,33.92080000,-117.60960000,Corona,California,Corona,California,CA,Riverside,065
+660,93202,US,36.30950000,-119.70530000,Armona,California,Armona,California,CA,Kings,031
+661,93219,US,35.87440000,-119.28100000,Earlimart,California,Earlimart,California,CA,Tulare,107
+662,93239,US,36.00830000,-119.96180000,Kettleman City,California,Kettleman City,California,CA,Kings,031
+663,93260,US,35.81350000,-118.66430000,Posey,California,Posey,California,CA,Tulare,107
+664,93265,US,36.13630000,-118.79610000,Springville,California,Springville,California,CA,Tulare,107
+665,93291,US,36.35510000,-119.30100000,Visalia,California,Visalia,California,CA,Tulare,107
+666,93405,US,35.29010000,-120.68170000,San Luis Obispo,California,San Luis Obispo,California,CA,San Luis Obispo,079
+667,93428,US,35.55660000,-121.08400000,Cambria,California,Cambria,California,CA,San Luis Obispo,079
+668,93518,US,35.37010000,-118.46120000,Caliente,California,Caliente,California,CA,Kern,029
+669,93549,US,36.23000000,-117.95520000,Olancha,California,Olancha,California,CA,Inyo,027
+670,93554,US,35.38660000,-117.71590000,Randsburg,California,Randsburg,California,CA,Kern,029
+671,93651,US,36.99380000,-119.52680000,Prather,California,Prather,California,CA,Fresno,019
+672,93652,US,36.60240000,-119.90400000,Raisin City,California,Raisin City,California,CA,Fresno,019
+673,93703,US,36.76840000,-119.75940000,Fresno,California,Fresno,California,CA,Fresno,019
+674,93720,US,36.85790000,-119.76550000,Fresno,California,Fresno,California,CA,Fresno,019
+675,93725,US,36.62070000,-119.73080000,Fresno,California,Fresno,California,CA,Fresno,019
+676,93726,US,36.79490000,-119.76040000,Fresno,California,Fresno,California,CA,Fresno,019
+677,93905,US,36.68110000,-121.61760000,Salinas,California,Salinas,California,CA,Monterey,053
+678,93923,US,36.54570000,-121.89490000,Carmel,California,Carmel,California,CA,Monterey,053
+679,94010,US,37.56710000,-122.36760000,Burlingame,California,Burlingame,California,CA,San Mateo,081
+680,94043,US,37.40560000,-122.07750000,Mountain View,California,Mountain View,California,CA,Santa Clara,085
+681,94074,US,37.32550000,-122.35560000,San Gregorio,California,San Gregorio,California,CA,San Mateo,081
+682,94103,US,37.77250000,-122.41470000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+683,94111,US,37.79740000,-122.40010000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+684,94129,US,37.80050000,-122.46500000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+685,94560,US,37.53680000,-122.03200000,Newark,California,Newark,California,CA,Alameda,001
+686,94574,US,38.51380000,-122.46190000,Saint Helena,California,Saint Helena,California,CA,Napa,055
+687,94579,US,37.68920000,-122.15070000,San Leandro,California,San Leandro,California,CA,Alameda,001
+688,94609,US,37.83610000,-122.26370000,Oakland,California,Oakland,California,CA,Alameda,001
+689,94709,US,37.87840000,-122.26550000,Berkeley,California,Berkeley,California,CA,Alameda,001
+690,94952,US,38.24030000,-122.67770000,Petaluma,California,Petaluma,California,CA,Sonoma,097
+691,94954,US,38.25070000,-122.61550000,Petaluma,California,Petaluma,California,CA,Sonoma,097
+692,95046,US,37.09110000,-121.59990000,San Martin,California,San Martin,California,CA,Santa Clara,085
+693,95066,US,37.05970000,-122.01520000,Scotts Valley,California,Scotts Valley,California,CA,Santa Cruz,087
+694,95215,US,37.95510000,-121.20410000,Stockton,California,Stockton,California,CA,San Joaquin,077
+695,95316,US,37.53900000,-120.77580000,Denair,California,Denair,California,CA,Stanislaus,099
+696,95324,US,37.40020000,-120.87230000,Hilmar,California,Hilmar,California,CA,Merced,047
+697,95335,US,38.09300000,-120.13440000,Long Barn,California,Long Barn,California,CA,Tuolumne,109
+698,95363,US,37.48260000,-121.16480000,Patterson,California,Patterson,California,CA,Stanislaus,099
+699,95369,US,37.53540000,-120.37800000,Snelling,California,Snelling,California,CA,Merced,047
+700,95448,US,38.61840000,-122.86200000,Healdsburg,California,Healdsburg,California,CA,Sonoma,097
+701,95465,US,38.40870000,-122.99540000,Occidental,California,Occidental,California,CA,Sonoma,097
+702,95494,US,38.92350000,-123.29730000,Yorkville,California,Yorkville,California,CA,Mendocino,045
+703,95545,US,40.24210000,-124.09720000,Honeydew,California,Honeydew,California,CA,Humboldt,023
+704,95547,US,40.54850000,-124.08470000,Hydesville,California,Hydesville,California,CA,Humboldt,023
+705,95548,US,41.58040000,-124.03870000,Klamath,California,Klamath,California,CA,Del Norte,015
+706,95560,US,40.12010000,-123.82340000,Redway,California,Redway,California,CA,Humboldt,023
+707,95563,US,40.85580000,-123.57300000,Salyer,California,Salyer,California,CA,Trinity,105
+708,95635,US,38.91430000,-120.90010000,Greenwood,California,Greenwood,California,CA,El Dorado,017
+709,95641,US,38.15700000,-121.60660000,Isleton,California,Isleton,California,CA,Sacramento,067
+710,95645,US,38.85170000,-121.73340000,Knights Landing,California,Knights Landing,California,CA,Yolo,113
+711,95664,US,38.81350000,-121.03080000,Pilot Hill,California,Pilot Hill,California,CA,El Dorado,017
+712,95665,US,38.40490000,-120.65440000,Pine Grove,California,Pine Grove,California,CA,Amador,005
+713,95673,US,38.68950000,-121.44790000,Rio Linda,California,Rio Linda,California,CA,Sacramento,067
+714,95687,US,38.34820000,-121.95380000,Vacaville,California,Vacaville,California,CA,Solano,095
+715,95735,US,38.80920000,-120.12420000,Twin Bridges,California,Twin Bridges,California,CA,El Dorado,017
+716,95746,US,38.74350000,-121.18970000,Granite Bay,California,Granite Bay,California,CA,Placer,061
+717,95826,US,38.55390000,-121.36930000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+718,95925,US,39.46850000,-121.19360000,Challenge,California,Challenge,California,CA,Yuba,115
+719,95937,US,38.88700000,-121.99920000,Dunnigan,California,Dunnigan,California,CA,Yolo,113
+720,95960,US,39.37650000,-121.08910000,North San Juan,California,North San Juan,California,CA,Nevada,057
+721,95968,US,39.43610000,-121.54540000,Palermo,California,Palermo,California,CA,Butte,007
+722,95988,US,39.53530000,-122.25970000,Willows,California,Willows,California,CA,Glenn,021
+723,96013,US,40.89490000,-121.65500000,Burney,California,Burney,California,CA,Shasta,089
+724,96021,US,39.92960000,-122.19600000,Corning,California,Corning,California,CA,Tehama,103
+725,96023,US,41.91940000,-121.97390000,Dorris,California,Dorris,California,CA,Siskiyou,093
+726,96047,US,40.43180000,-122.65400000,Igo,California,Igo,California,CA,Shasta,089
+727,96065,US,40.91240000,-121.92330000,Montgomery Creek,California,Montgomery Creek,California,CA,Shasta,089
+728,96067,US,41.31740000,-122.32400000,Mount Shasta,California,Mount Shasta,California,CA,Siskiyou,093
+729,96092,US,39.92720000,-122.02500000,Vina,California,Vina,California,CA,Tehama,103
+730,96116,US,41.23290000,-120.50790000,Likely,California,Likely,California,CA,Modoc,049
+731,96122,US,39.81050000,-120.46910000,Portola,California,Portola,California,CA,Plumas,063
+732,96123,US,40.79850000,-120.36520000,Ravendale,California,Ravendale,California,CA,Lassen,035
+733,96128,US,40.35090000,-120.40680000,Standish,California,Standish,California,CA,Lassen,035
+734,96145,US,39.18060000,-120.14450000,Tahoe City,California,Tahoe City,California,CA,Placer,061
+735,90014,US,34.04430000,-118.25090000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+736,90019,US,34.04820000,-118.33430000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+737,90026,US,34.07660000,-118.26460000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+738,90068,US,34.11560000,-118.33050000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+739,90210,US,34.09010000,-118.40650000,Beverly Hills,California,Beverly Hills,California,CA,Los Angeles,037
+740,90280,US,33.94620000,-118.20130000,South Gate,California,South Gate,California,CA,Los Angeles,037
+741,90814,US,33.77160000,-118.14800000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+742,91203,US,34.15170000,-118.26360000,Glendale,California,Glendale,California,CA,Los Angeles,037
+743,91301,US,34.12270000,-118.75730000,Agoura Hills,California,Agoura Hills,California,CA,Los Angeles,037
+744,91321,US,34.37950000,-118.52300000,Newhall,California,Newhall,California,CA,Los Angeles,037
+745,91504,US,34.20010000,-118.32640000,Burbank,California,Burbank,California,CA,Los Angeles,037
+746,91506,US,34.17170000,-118.32310000,Burbank,California,Burbank,California,CA,Los Angeles,037
+747,91723,US,34.08600000,-117.88430000,Covina,California,Covina,California,CA,Los Angeles,037
+748,91741,US,34.15370000,-117.84370000,Glendora,California,Glendora,California,CA,Los Angeles,037
+749,91791,US,34.06530000,-117.89780000,West Covina,California,West Covina,California,CA,Los Angeles,037
+750,91941,US,32.76040000,-117.01150000,La Mesa,California,La Mesa,California,CA,San Diego,073
+751,91945,US,32.73320000,-117.03260000,Lemon Grove,California,Lemon Grove,California,CA,San Diego,073
+752,91950,US,32.67490000,-117.08970000,National City,California,National City,California,CA,San Diego,073
+753,92014,US,32.96650000,-117.24900000,Del Mar,California,Del Mar,California,CA,San Diego,073
+754,92066,US,33.21000000,-116.51670000,Ranchita,California,Ranchita,California,CA,San Diego,073
+755,92070,US,33.14760000,-116.69630000,Santa Ysabel,California,Santa Ysabel,California,CA,San Diego,073
+756,92268,US,34.18870000,-116.50480000,Pioneertown,California,Pioneertown,California,CA,San Bernardino,071
+757,92342,US,34.74990000,-117.33670000,Helendale,California,Helendale,California,CA,San Bernardino,071
+758,92358,US,34.25580000,-117.51860000,Lytle Creek,California,Lytle Creek,California,CA,San Bernardino,071
+759,92368,US,34.61780000,-117.33270000,Oro Grande,California,Oro Grande,California,CA,San Bernardino,071
+760,92672,US,33.43610000,-117.62310000,San Clemente,California,San Clemente,California,CA,Orange,059
+761,92677,US,33.51450000,-117.70840000,Laguna Niguel,California,Laguna Niguel,California,CA,Orange,059
+762,92801,US,33.84280000,-117.95460000,Anaheim,California,Anaheim,California,CA,Orange,059
+763,92806,US,33.83560000,-117.86810000,Anaheim,California,Anaheim,California,CA,Orange,059
+764,92832,US,33.86800000,-117.92650000,Fullerton,California,Fullerton,California,CA,Orange,059
+765,92845,US,33.77870000,-118.02670000,Garden Grove,California,Garden Grove,California,CA,Orange,059
+766,92882,US,33.84190000,-117.60430000,Corona,California,Corona,California,CA,Riverside,065
+767,93003,US,34.28460000,-119.22220000,Ventura,California,Ventura,California,CA,Ventura,111
+768,93103,US,34.42910000,-119.68330000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+769,93225,US,34.82650000,-119.03550000,Frazier Park,California,Frazier Park,California,CA,Kern,029
+770,93241,US,35.25710000,-118.91240000,Lamont,California,Lamont,California,CA,Kern,029
+771,93247,US,36.20960000,-119.08840000,Lindsay,California,Lindsay,California,CA,Tulare,107
+772,93422,US,35.47540000,-120.66380000,Atascadero,California,Atascadero,California,CA,San Luis Obispo,079
+773,93458,US,34.95350000,-120.49570000,Santa Maria,California,Santa Maria,California,CA,Santa Barbara,083
+774,93523,US,34.92610000,-117.93510000,Edwards,California,Edwards,California,CA,Kern,029
+775,93530,US,36.48860000,-117.87410000,Keeler,California,Keeler,California,CA,Inyo,027
+776,93535,US,34.71310000,-117.87830000,Lancaster,California,Lancaster,California,CA,Los Angeles,037
+777,93561,US,35.13220000,-118.44900000,Tehachapi,California,Tehachapi,California,CA,Kern,029
+778,93604,US,37.32440000,-119.55680000,Bass Lake,California,Bass Lake,California,CA,Madera,039
+779,93608,US,36.49210000,-120.33530000,Cantua Creek,California,Cantua Creek,California,CA,Fresno,019
+780,93609,US,36.53580000,-119.84460000,Caruthers,California,Caruthers,California,CA,Fresno,019
+781,93610,US,37.10140000,-120.26910000,Chowchilla,California,Chowchilla,California,CA,Madera,039
+782,93616,US,36.65430000,-119.59290000,Del Rey,California,Del Rey,California,CA,Fresno,019
+783,93624,US,36.33860000,-120.11180000,Five Points,California,Five Points,California,CA,Fresno,019
+784,93630,US,36.73060000,-120.07240000,Kerman,California,Kerman,California,CA,Fresno,019
+785,93637,US,36.94030000,-120.08200000,Madera,California,Madera,California,CA,Madera,039
+786,93704,US,36.79910000,-119.80160000,Fresno,California,Fresno,California,CA,Fresno,019
+787,93722,US,36.79180000,-119.88010000,Fresno,California,Fresno,California,CA,Fresno,019
+788,93728,US,36.75810000,-119.81130000,Fresno,California,Fresno,California,CA,Fresno,019
+789,93940,US,36.58020000,-121.84430000,Monterey,California,Monterey,California,CA,Monterey,053
+790,94062,US,37.42450000,-122.29600000,Redwood City,California,Redwood City,California,CA,San Mateo,081
+791,94501,US,37.77060000,-122.26480000,Alameda,California,Alameda,California,CA,Alameda,001
+792,94507,US,37.85370000,-122.02290000,Alamo,California,Alamo,California,CA,Contra Costa,013
+793,94538,US,37.53080000,-121.97120000,Fremont,California,Fremont,California,CA,Alameda,001
+794,94563,US,37.87870000,-122.17280000,Orinda,California,Orinda,California,CA,Contra Costa,013
+795,94591,US,38.09850000,-122.21240000,Vallejo,California,Vallejo,California,CA,Solano,095
+796,94708,US,37.89180000,-122.26040000,Berkeley,California,Berkeley,California,CA,Alameda,001
+797,94931,US,38.32590000,-122.70480000,Cotati,California,Cotati,California,CA,Sonoma,097
+798,95004,US,36.87690000,-121.63240000,Aromas,California,Aromas,California,CA,Monterey,053
+799,95065,US,37.00890000,-121.98490000,Santa Cruz,California,Santa Cruz,California,CA,Santa Cruz,087
+800,95070,US,37.27130000,-122.02270000,Saratoga,California,Saratoga,California,CA,Santa Clara,085
+801,95130,US,37.28860000,-121.98180000,San Jose,California,San Jose,California,CA,Santa Clara,085
+802,95204,US,37.97430000,-121.31540000,Stockton,California,Stockton,California,CA,San Joaquin,077
+803,95210,US,38.02500000,-121.29720000,Stockton,California,Stockton,California,CA,San Joaquin,077
+804,95228,US,37.94400000,-120.64230000,Copperopolis,California,Copperopolis,California,CA,Calaveras,009
+805,95305,US,37.82350000,-120.25820000,Big Oak Flat,California,Big Oak Flat,California,CA,Tuolumne,109
+806,95311,US,37.71970000,-120.11970000,Coulterville,California,Coulterville,California,CA,Mariposa,043
+807,95318,US,37.67470000,-119.78410000,El Portal,California,El Portal,California,CA,Mariposa,043
+808,95322,US,37.20010000,-121.00470000,Gustine,California,Gustine,California,CA,Merced,047
+809,95333,US,37.24960000,-120.26670000,Le Grand,California,Le Grand,California,CA,Merced,047
+810,95340,US,37.29830000,-120.46490000,Merced,California,Merced,California,CA,Merced,047
+811,95357,US,37.66930000,-120.88170000,Modesto,California,Modesto,California,CA,Stanislaus,099
+812,95360,US,37.30970000,-121.08050000,Newman,California,Newman,California,CA,Stanislaus,099
+813,95366,US,37.74910000,-121.12840000,Ripon,California,Ripon,California,CA,San Joaquin,077
+814,95368,US,37.70830000,-121.08640000,Salida,California,Salida,California,CA,Stanislaus,099
+815,95461,US,38.78240000,-122.64870000,Middletown,California,Middletown,California,CA,Lake,033
+816,95493,US,39.18210000,-122.97110000,Witter Springs,California,Witter Springs,California,CA,Lake,033
+817,95537,US,40.72680000,-124.21740000,Fields Landing,California,Fields Landing,California,CA,Humboldt,023
+818,95569,US,40.34370000,-123.90950000,Redcrest,California,Redcrest,California,CA,Humboldt,023
+819,95621,US,38.69520000,-121.30750000,Citrus Heights,California,Citrus Heights,California,CA,Sacramento,067
+820,95684,US,38.59530000,-120.59490000,Somerset,California,Somerset,California,CA,El Dorado,017
+821,95695,US,38.68160000,-121.80520000,Woodland,California,Woodland,California,CA,Yolo,113
+822,95822,US,38.50910000,-121.49350000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+823,95823,US,38.47970000,-121.44380000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+824,95831,US,38.49620000,-121.52970000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+825,95938,US,39.63300000,-121.78860000,Durham,California,Durham,California,CA,Butte,007
+826,95969,US,39.75550000,-121.60690000,Paradise,California,Paradise,California,CA,Butte,007
+827,96046,US,40.61370000,-123.44880000,Hyampom,California,Hyampom,California,CA,Trinity,105
+828,96050,US,41.86370000,-122.81970000,Klamath River,California,Klamath River,California,CA,Siskiyou,093
+829,96051,US,40.91050000,-122.41060000,Lakehead,California,Lakehead,California,CA,Shasta,089
+830,96108,US,41.73360000,-120.37410000,Davis Creek,California,Davis Creek,California,CA,Modoc,049
+831,96142,US,39.06440000,-120.13570000,Tahoma,California,Tahoma,California,CA,El Dorado,017
+832,90023,US,34.02450000,-118.19750000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+833,90038,US,34.08980000,-118.32150000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+834,90077,US,34.11120000,-118.45020000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+835,90603,US,33.94320000,-117.99270000,Whittier,California,Whittier,California,CA,Los Angeles,037
+836,90746,US,33.85840000,-118.25540000,Carson,California,Carson,California,CA,Los Angeles,037
+837,90804,US,33.78570000,-118.13570000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+838,91344,US,34.27710000,-118.49920000,Granada Hills,California,Granada Hills,California,CA,Los Angeles,037
+839,91436,US,34.15100000,-118.48820000,Encino,California,Encino,California,CA,Los Angeles,037
+840,91604,US,34.14300000,-118.39130000,Studio City,California,Studio City,California,CA,Los Angeles,037
+841,91768,US,34.06620000,-117.77630000,Pomona,California,Pomona,California,CA,Los Angeles,037
+842,91910,US,32.63710000,-117.06760000,Chula Vista,California,Chula Vista,California,CA,San Diego,073
+843,92107,US,32.74250000,-117.24330000,San Diego,California,San Diego,California,CA,San Diego,073
+844,92116,US,32.76240000,-117.12420000,San Diego,California,San Diego,California,CA,San Diego,073
+845,92131,US,32.91230000,-117.08980000,San Diego,California,San Diego,California,CA,San Diego,073
+846,92242,US,34.16520000,-114.31970000,Earp,California,Earp,California,CA,San Bernardino,071
+847,92276,US,33.80820000,-116.37130000,Thousand Palms,California,Thousand Palms,California,CA,Riverside,065
+848,90003,US,33.96530000,-118.27270000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+849,90006,US,34.04930000,-118.29170000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+850,90010,US,34.06060000,-118.30270000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+851,90015,US,34.04340000,-118.27160000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+852,90032,US,34.08180000,-118.17530000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+853,90041,US,34.13390000,-118.20820000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+854,90042,US,34.11450000,-118.19290000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+855,90056,US,33.98530000,-118.37070000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+856,90061,US,33.92450000,-118.27160000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+857,90211,US,34.06520000,-118.38300000,Beverly Hills,California,Beverly Hills,California,CA,Los Angeles,037
+858,90262,US,33.92410000,-118.20130000,Lynwood,California,Lynwood,California,CA,Los Angeles,037
+859,90292,US,33.97790000,-118.45250000,Marina Del Rey,California,Marina Del Rey,California,CA,Los Angeles,037
+860,90504,US,33.87080000,-118.32950000,Torrance,California,Torrance,California,CA,Los Angeles,037
+861,90606,US,33.97770000,-118.06580000,Whittier,California,Whittier,California,CA,Los Angeles,037
+862,90631,US,33.93310000,-117.94930000,La Habra,California,La Habra,California,CA,Orange,059
+863,90704,US,33.33200000,-118.34370000,Avalon,California,Avalon,California,CA,Los Angeles,037
+864,90710,US,33.79700000,-118.29910000,Harbor City,California,Harbor City,California,CA,Los Angeles,037
+865,90731,US,33.73390000,-118.29140000,San Pedro,California,San Pedro,California,CA,Los Angeles,037
+866,91001,US,34.19120000,-118.13920000,Altadena,California,Altadena,California,CA,Los Angeles,037
+867,91016,US,34.14400000,-118.00140000,Monrovia,California,Monrovia,California,CA,Los Angeles,037
+868,91042,US,34.25440000,-118.28490000,Tujunga,California,Tujunga,California,CA,Los Angeles,037
+869,91103,US,34.16690000,-118.15510000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+870,91206,US,34.15560000,-118.23220000,Glendale,California,Glendale,California,CA,Los Angeles,037
+871,91207,US,34.16490000,-118.24510000,Glendale,California,Glendale,California,CA,Los Angeles,037
+872,91345,US,34.26190000,-118.45870000,Mission Hills,California,Mission Hills,California,CA,Los Angeles,037
+873,91601,US,34.16870000,-118.37130000,North Hollywood,California,North Hollywood,California,CA,Los Angeles,037
+874,91744,US,34.02890000,-117.93730000,La Puente,California,La Puente,California,CA,Los Angeles,037
+875,91773,US,34.10230000,-117.81690000,San Dimas,California,San Dimas,California,CA,Los Angeles,037
+876,91803,US,34.07450000,-118.14340000,Alhambra,California,Alhambra,California,CA,Los Angeles,037
+877,92273,US,32.79410000,-115.69480000,Seeley,California,Seeley,California,CA,Imperial,025
+878,92338,US,34.72110000,-116.16000000,Ludlow,California,Ludlow,California,CA,San Bernardino,071
+879,92371,US,34.44490000,-117.51960000,Phelan,California,Phelan,California,CA,San Bernardino,071
+880,92377,US,34.15610000,-117.40420000,Rialto,California,Rialto,California,CA,San Bernardino,071
+881,92392,US,34.48020000,-117.40820000,Victorville,California,Victorville,California,CA,San Bernardino,071
+882,92401,US,34.11050000,-117.28980000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+883,92410,US,34.10690000,-117.29750000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+884,92503,US,33.92080000,-117.45890000,Riverside,California,Riverside,California,CA,Riverside,065
+885,92506,US,33.94550000,-117.37570000,Riverside,California,Riverside,California,CA,Riverside,065
+886,92518,US,33.95330000,-117.39620000,March Air Reserve Base,California,March Air Reserve Base,California,CA,Riverside,065
+887,92548,US,33.74530000,-117.11180000,Homeland,California,Homeland,California,CA,Riverside,065
+888,92549,US,33.73040000,-116.71070000,Idyllwild,California,Idyllwild,California,CA,Riverside,065
+889,92586,US,33.70440000,-117.19690000,Sun City,California,Sun City,California,CA,Riverside,065
+890,92587,US,33.70700000,-117.24500000,Quail Valley,California,Quail Valley,California,CA,Riverside,065
+891,92612,US,33.66070000,-117.82640000,Irvine,California,Irvine,California,CA,Orange,059
+892,92646,US,33.66540000,-117.96860000,Huntington Beach,California,Huntington Beach,California,CA,Orange,059
+893,92701,US,33.75230000,-117.85410000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+894,92707,US,33.70860000,-117.87010000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+895,92805,US,33.83590000,-117.90860000,Anaheim,California,Anaheim,California,CA,Orange,059
+896,93001,US,34.33080000,-119.35840000,Ventura,California,Ventura,California,CA,Ventura,111
+897,93205,US,35.58700000,-118.48470000,Bodfish,California,Bodfish,California,CA,Kern,029
+898,93238,US,35.75500000,-118.40470000,Kernville,California,Kernville,California,CA,Kern,029
+899,93244,US,36.49690000,-118.99410000,Lemon Cove,California,Lemon Cove,California,CA,Tulare,107
+900,93263,US,35.49700000,-119.28010000,Shafter,California,Shafter,California,CA,Kern,029
+901,93531,US,35.23750000,-118.60760000,Keene,California,Keene,California,CA,Kern,029
+902,93536,US,34.74710000,-118.36870000,Lancaster,California,Lancaster,California,CA,Los Angeles,037
+903,93552,US,34.57150000,-118.02310000,Palmdale,California,Palmdale,California,CA,Los Angeles,037
+904,93553,US,34.42250000,-117.90550000,Pearblossom,California,Pearblossom,California,CA,Los Angeles,037
+905,93641,US,36.68940000,-119.04770000,Miramonte,California,Miramonte,California,CA,Fresno,019
+906,93647,US,36.54640000,-119.28150000,Orosi,California,Orosi,California,CA,Tulare,107
+907,93650,US,36.84110000,-119.80100000,Fresno,California,Fresno,California,CA,Fresno,019
+908,93660,US,36.60590000,-120.18890000,San Joaquin,California,San Joaquin,California,CA,Fresno,019
+909,93667,US,36.99430000,-119.39140000,Tollhouse,California,Tollhouse,California,CA,Fresno,019
+910,93711,US,36.83030000,-119.83190000,Fresno,California,Fresno,California,CA,Fresno,019
+911,93721,US,36.73770000,-119.78430000,Fresno,California,Fresno,California,CA,Fresno,019
+912,93930,US,36.20280000,-121.12730000,King City,California,King City,California,CA,Monterey,053
+913,93953,US,36.59070000,-121.94200000,Pebble Beach,California,Pebble Beach,California,CA,Monterey,053
+914,94002,US,37.51740000,-122.29270000,Belmont,California,Belmont,California,CA,San Mateo,081
+915,94024,US,37.35470000,-122.08620000,Los Altos,California,Los Altos,California,CA,Santa Clara,085
+916,94040,US,37.38550000,-122.08800000,Mountain View,California,Mountain View,California,CA,Santa Clara,085
+917,94060,US,37.20650000,-122.36490000,Pescadero,California,Pescadero,California,CA,San Mateo,081
+918,94066,US,37.62470000,-122.42900000,San Bruno,California,San Bruno,California,CA,San Mateo,081
+919,94086,US,37.37640000,-122.02380000,Sunnyvale,California,Sunnyvale,California,CA,Santa Clara,085
+920,94131,US,37.74500000,-122.43830000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+921,94509,US,37.99390000,-121.80890000,Antioch,California,Antioch,California,CA,Contra Costa,013
+922,94541,US,37.67400000,-122.08940000,Hayward,California,Hayward,California,CA,Alameda,001
+923,94545,US,37.63320000,-122.09710000,Hayward,California,Hayward,California,CA,Alameda,001
+924,94555,US,37.57350000,-122.04690000,Fremont,California,Fremont,California,CA,Alameda,001
+925,94580,US,37.67870000,-122.12950000,San Lorenzo,California,San Lorenzo,California,CA,Alameda,001
+926,94587,US,37.58950000,-122.04970000,Union City,California,Union City,California,CA,Alameda,001
+927,94595,US,37.87530000,-122.07030000,Walnut Creek,California,Walnut Creek,California,CA,Contra Costa,013
+928,94596,US,37.90530000,-122.05490000,Walnut Creek,California,Walnut Creek,California,CA,Contra Costa,013
+929,94598,US,37.91940000,-122.02590000,Walnut Creek,California,Walnut Creek,California,CA,Contra Costa,013
+930,94606,US,37.79570000,-122.24290000,Oakland,California,Oakland,California,CA,Alameda,001
+931,94607,US,37.80710000,-122.28510000,Oakland,California,Oakland,California,CA,Alameda,001
+932,94706,US,37.89000000,-122.29540000,Albany,California,Albany,California,CA,Alameda,001
+933,94923,US,38.33090000,-123.03730000,Bodega Bay,California,Bodega Bay,California,CA,Sonoma,097
+934,94940,US,38.17620000,-122.89000000,Marshall,California,Marshall,California,CA,Marin,041
+935,94947,US,38.09730000,-122.58370000,Novato,California,Novato,California,CA,Marin,041
+936,94949,US,38.06180000,-122.54040000,Novato,California,Novato,California,CA,Marin,041
+937,94960,US,37.98460000,-122.57110000,San Anselmo,California,San Anselmo,California,CA,Marin,041
+938,94965,US,37.86010000,-122.49460000,Sausalito,California,Sausalito,California,CA,Marin,041
+939,94971,US,38.24270000,-122.91450000,Tomales,California,Tomales,California,CA,Marin,041
+940,94972,US,38.31800000,-122.92420000,Valley Ford,California,Valley Ford,California,CA,Sonoma,097
+941,95002,US,37.42600000,-121.97360000,Alviso,California,Alviso,California,CA,Santa Clara,085
+942,95062,US,36.97210000,-121.98810000,Santa Cruz,California,Santa Cruz,California,CA,Santa Cruz,087
+943,95112,US,37.34760000,-121.88700000,San Jose,California,San Jose,California,CA,Santa Clara,085
+944,95116,US,37.35180000,-121.85080000,San Jose,California,San Jose,California,CA,Santa Clara,085
+945,95125,US,37.29600000,-121.89390000,San Jose,California,San Jose,California,CA,Santa Clara,085
+946,95129,US,37.30660000,-122.00020000,San Jose,California,San Jose,California,CA,Santa Clara,085
+947,95134,US,37.40870000,-121.94060000,San Jose,California,San Jose,California,CA,Santa Clara,085
+948,95219,US,38.01000000,-121.36980000,Stockton,California,Stockton,California,CA,San Joaquin,077
+949,95220,US,38.20040000,-121.21860000,Acampo,California,Acampo,California,CA,San Joaquin,077
+950,95236,US,38.03200000,-121.04930000,Linden,California,Linden,California,CA,San Joaquin,077
+951,95240,US,38.12220000,-121.25550000,Lodi,California,Lodi,California,CA,San Joaquin,077
+952,95252,US,38.16200000,-120.85720000,Valley Springs,California,Valley Springs,California,CA,Calaveras,009
+953,95255,US,38.41970000,-120.47590000,West Point,California,West Point,California,CA,Calaveras,009
+954,95301,US,37.34890000,-120.60280000,Atwater,California,Atwater,California,CA,Merced,047
+955,95338,US,37.49310000,-119.92190000,Mariposa,California,Mariposa,California,CA,Mariposa,043
+956,95350,US,37.67460000,-121.01130000,Modesto,California,Modesto,California,CA,Stanislaus,099
+957,95351,US,37.62360000,-120.99660000,Modesto,California,Modesto,California,CA,Stanislaus,099
+958,95361,US,37.77410000,-120.83770000,Oakdale,California,Oakdale,California,CA,Stanislaus,099
+959,95409,US,38.45920000,-122.63930000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+960,95420,US,39.36290000,-123.79440000,Caspar,California,Caspar,California,CA,Mendocino,045
+961,95425,US,38.79310000,-123.00740000,Cloverdale,California,Cloverdale,California,CA,Sonoma,097
+962,95427,US,39.27670000,-123.58730000,Comptche,California,Comptche,California,CA,Mendocino,045
+963,95445,US,38.82510000,-123.53990000,Gualala,California,Gualala,California,CA,Mendocino,045
+964,95471,US,38.52100000,-122.97690000,Rio Nido,California,Rio Nido,California,CA,Sonoma,097
+965,95482,US,39.15520000,-123.19510000,Ukiah,California,Ukiah,California,CA,Mendocino,045
+966,95519,US,40.94650000,-124.08340000,Mckinleyville,California,Mckinleyville,California,CA,Humboldt,023
+967,95550,US,40.77750000,-123.84860000,Korbel,California,Korbel,California,CA,Humboldt,023
+968,95567,US,41.94040000,-124.15870000,Smith River,California,Smith River,California,CA,Del Norte,015
+969,95570,US,41.05930000,-124.14310000,Trinidad,California,Trinidad,California,CA,Humboldt,023
+970,95601,US,38.41940000,-120.82300000,Amador City,California,Amador City,California,CA,Amador,005
+971,95619,US,38.68650000,-120.81450000,Diamond Springs,California,Diamond Springs,California,CA,El Dorado,017
+972,95624,US,38.42320000,-121.35990000,Elk Grove,California,Elk Grove,California,CA,Sacramento,067
+973,95662,US,38.68450000,-121.22560000,Orangevale,California,Orangevale,California,CA,Sacramento,067
+974,95663,US,38.85670000,-121.17910000,Penryn,California,Penryn,California,CA,Placer,061
+975,95669,US,38.49160000,-120.88190000,Plymouth,California,Plymouth,California,CA,Amador,005
+976,95694,US,38.53220000,-121.96760000,Winters,California,Winters,California,CA,Yolo,113
+977,95713,US,39.07830000,-120.95490000,Colfax,California,Colfax,California,CA,Placer,061
+978,95722,US,39.00310000,-121.02920000,Meadow Vista,California,Meadow Vista,California,CA,Placer,061
+979,95815,US,38.60930000,-121.44430000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+980,95824,US,38.51780000,-121.44190000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+981,95828,US,38.48260000,-121.40060000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+982,95843,US,38.71590000,-121.36480000,Antelope,California,Antelope,California,CA,Sacramento,067
+983,95864,US,38.58780000,-121.37690000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+984,95912,US,39.01380000,-122.02740000,Arbuckle,California,Arbuckle,California,CA,Colusa,011
+985,95914,US,39.38850000,-121.40520000,Bangor,California,Bangor,California,CA,Butte,007
+986,95954,US,39.89120000,-121.58000000,Magalia,California,Magalia,California,CA,Butte,007
+987,95966,US,39.48770000,-121.46980000,Oroville,California,Oroville,California,CA,Butte,007
+988,95981,US,39.68700000,-121.04500000,Strawberry Valley,California,Strawberry Valley,California,CA,Yuba,115
+989,96014,US,41.38330000,-122.76400000,Callahan,California,Callahan,California,CA,Siskiyou,093
+990,96022,US,40.36910000,-122.33750000,Cottonwood,California,Cottonwood,California,CA,Shasta,089
+991,96024,US,40.63420000,-122.92390000,Douglas City,California,Douglas City,California,CA,Trinity,105
+992,96028,US,41.03930000,-121.46060000,Fall River Mills,California,Fall River Mills,California,CA,Shasta,089
+993,96068,US,41.09570000,-121.18300000,Nubieber,California,Nubieber,California,CA,Lassen,035
+994,90004,US,34.07620000,-118.30290000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+995,90012,US,34.06140000,-118.23850000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+996,90025,US,34.04470000,-118.44870000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+997,90058,US,33.99940000,-118.21330000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+998,90066,US,34.00300000,-118.42980000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+999,90265,US,34.04020000,-118.73510000,Malibu,California,Malibu,California,CA,Los Angeles,037
+1000,90277,US,33.83070000,-118.38320000,Redondo Beach,California,Redondo Beach,California,CA,Los Angeles,037
+1001,90623,US,33.84910000,-118.03980000,La Palma,California,La Palma,California,CA,Orange,059
+1002,90680,US,33.79910000,-117.99560000,Stanton,California,Stanton,California,CA,Orange,059
+1003,90717,US,33.79380000,-118.31720000,Lomita,California,Lomita,California,CA,Los Angeles,037
+1004,90740,US,33.76020000,-118.08080000,Seal Beach,California,Seal Beach,California,CA,Orange,059
+1005,90810,US,33.81930000,-118.23250000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+1006,91325,US,34.23530000,-118.51880000,Northridge,California,Northridge,California,CA,Los Angeles,037
+1007,91326,US,34.26190000,-118.58200000,Porter Ranch,California,Porter Ranch,California,CA,Los Angeles,037
+1008,91754,US,34.05340000,-118.12710000,Monterey Park,California,Monterey Park,California,CA,Los Angeles,037
+1009,91789,US,34.01830000,-117.85460000,Walnut,California,Walnut,California,CA,Los Angeles,037
+1010,92118,US,32.68070000,-117.16980000,Coronado,California,Coronado,California,CA,San Diego,073
+1011,92139,US,32.68060000,-117.04740000,San Diego,California,San Diego,California,CA,San Diego,073
+1012,92154,US,32.57530000,-117.07070000,San Diego,California,San Diego,California,CA,San Diego,073
+1013,92211,US,33.76440000,-116.33980000,Palm Desert,California,Palm Desert,California,CA,Riverside,065
+1014,92220,US,33.92820000,-116.88990000,Banning,California,Banning,California,CA,Riverside,065
+1015,92249,US,32.72180000,-115.43830000,Heber,California,Heber,California,CA,Imperial,025
+1016,92253,US,33.66850000,-116.30810000,La Quinta,California,La Quinta,California,CA,Riverside,065
+1017,92270,US,33.76430000,-116.42250000,Rancho Mirage,California,Rancho Mirage,California,CA,Riverside,065
+1018,92304,US,34.55780000,-115.74440000,Amboy,California,Amboy,California,CA,San Bernardino,071
+1019,92305,US,34.15310000,-116.94850000,Angelus Oaks,California,Angelus Oaks,California,CA,San Bernardino,071
+1020,92308,US,34.46980000,-117.19270000,Apple Valley,California,Apple Valley,California,CA,San Bernardino,071
+1021,92309,US,35.36060000,-116.06380000,Baker,California,Baker,California,CA,San Bernardino,071
+1022,92321,US,34.25450000,-117.15330000,Cedar Glen,California,Cedar Glen,California,CA,San Bernardino,071
+1023,92324,US,34.03150000,-117.28740000,Colton,California,Colton,California,CA,San Bernardino,071
+1024,92333,US,34.25830000,-116.95150000,Fawnskin,California,Fawnskin,California,CA,San Bernardino,071
+1025,92337,US,34.04980000,-117.47060000,Fontana,California,Fontana,California,CA,San Bernardino,071
+1026,92374,US,34.06500000,-117.16720000,Redlands,California,Redlands,California,CA,San Bernardino,071
+1027,92386,US,34.23720000,-116.82770000,Sugarloaf,California,Sugarloaf,California,CA,San Bernardino,071
+1028,92539,US,33.56880000,-116.71350000,Anza,California,Anza,California,CA,Riverside,065
+1029,92543,US,33.74160000,-116.97300000,Hemet,California,Hemet,California,CA,Riverside,065
+1030,92551,US,33.88140000,-117.22610000,Moreno Valley,California,Moreno Valley,California,CA,Riverside,065
+1031,92657,US,33.59430000,-117.83340000,Newport Coast,California,Newport Coast,California,CA,Orange,059
+1032,92662,US,33.60620000,-117.89310000,Newport Beach,California,Newport Beach,California,CA,Orange,059
+1033,92679,US,33.66250000,-117.59030000,Trabuco Canyon,California,Trabuco Canyon,California,CA,Orange,059
+1034,92804,US,33.81860000,-117.97290000,Anaheim,California,Anaheim,California,CA,Orange,059
+1035,92843,US,33.76710000,-117.92900000,Garden Grove,California,Garden Grove,California,CA,Orange,059
+1036,92886,US,33.90580000,-117.78650000,Yorba Linda,California,Yorba Linda,California,CA,Orange,059
+1037,93035,US,34.18220000,-119.21600000,Oxnard,California,Oxnard,California,CA,Ventura,111
+1038,93040,US,34.43520000,-118.78550000,Piru,California,Piru,California,CA,Ventura,111
+1039,93060,US,34.35470000,-119.07130000,Santa Paula,California,Santa Paula,California,CA,Ventura,111
+1040,93108,US,34.43780000,-119.61590000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+1041,93268,US,35.14820000,-119.45570000,Taft,California,Taft,California,CA,Kern,029
+1042,93402,US,35.31720000,-120.83330000,Los Osos,California,Los Osos,California,CA,San Luis Obispo,079
+1043,93427,US,34.62090000,-120.19220000,Buellton,California,Buellton,California,CA,Santa Barbara,083
+1044,93442,US,35.37950000,-120.84470000,Morro Bay,California,Morro Bay,California,CA,San Luis Obispo,079
+1045,93465,US,35.55510000,-120.71070000,Templeton,California,Templeton,California,CA,San Luis Obispo,079
+1046,93526,US,36.83960000,-118.20480000,Independence,California,Independence,California,CA,Inyo,027
+1047,93534,US,34.69090000,-118.14910000,Lancaster,California,Lancaster,California,CA,Los Angeles,037
+1048,93560,US,34.86640000,-118.34090000,Rosamond,California,Rosamond,California,CA,Kern,029
+1049,93628,US,36.75150000,-118.95750000,Hume,California,Hume,California,CA,Fresno,019
+1050,93643,US,37.21250000,-119.51430000,North Fork,California,North Fork,California,CA,Madera,039
+1051,93644,US,37.34760000,-119.64490000,Oakhurst,California,Oakhurst,California,CA,Madera,039
+1052,93673,US,36.45520000,-119.48480000,Traver,California,Traver,California,CA,Tulare,107
+1053,93906,US,36.71030000,-121.64380000,Salinas,California,Salinas,California,CA,Monterey,053
+1054,93924,US,36.47870000,-121.72440000,Carmel Valley,California,Carmel Valley,California,CA,Monterey,053
+1055,94005,US,37.68110000,-122.40010000,Brisbane,California,Brisbane,California,CA,San Mateo,081
+1056,94105,US,37.78640000,-122.38920000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1057,94110,US,37.75090000,-122.41530000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1058,94117,US,37.77120000,-122.44130000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1059,94122,US,37.75930000,-122.48360000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1060,94523,US,37.95400000,-122.07370000,Pleasant Hill,California,Pleasant Hill,California,CA,Contra Costa,013
+1061,94526,US,37.81400000,-121.96600000,Danville,California,Danville,California,CA,Contra Costa,013
+1062,94567,US,38.61520000,-122.42780000,Pope Valley,California,Pope Valley,California,CA,Napa,055
+1063,94568,US,37.71660000,-121.92260000,Dublin,California,Dublin,California,CA,Alameda,001
+1064,94572,US,38.03070000,-122.25810000,Rodeo,California,Rodeo,California,CA,Contra Costa,013
+1065,94576,US,38.54940000,-122.47640000,Deer Park,California,Deer Park,California,CA,Napa,055
+1066,94586,US,37.60940000,-121.89860000,Sunol,California,Sunol,California,CA,Alameda,001
+1067,94589,US,38.15820000,-122.28040000,Vallejo,California,Vallejo,California,CA,Solano,095
+1068,94618,US,37.84310000,-122.24020000,Oakland,California,Oakland,California,CA,Alameda,001
+1069,94705,US,37.85710000,-122.25000000,Berkeley,California,Berkeley,California,CA,Alameda,001
+1070,94805,US,37.94170000,-122.32380000,Richmond,California,Richmond,California,CA,Contra Costa,013
+1071,94937,US,38.11260000,-122.88770000,Inverness,California,Inverness,California,CA,Marin,041
+1072,94941,US,37.89580000,-122.53390000,Mill Valley,California,Mill Valley,California,CA,Marin,041
+1073,95045,US,36.84630000,-121.53460000,San Juan Bautista,California,San Juan Bautista,California,CA,San Benito,069
+1074,95054,US,37.39240000,-121.96230000,Santa Clara,California,Santa Clara,California,CA,Santa Clara,085
+1075,95060,US,37.03130000,-122.11980000,Santa Cruz,California,Santa Cruz,California,CA,Santa Cruz,087
+1076,95120,US,37.21440000,-121.85740000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1077,95121,US,37.30420000,-121.80990000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1078,95131,US,37.38640000,-121.88000000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1079,95202,US,37.96060000,-121.28710000,Stockton,California,Stockton,California,CA,San Joaquin,077
+1080,95212,US,38.03150000,-121.25890000,Stockton,California,Stockton,California,CA,San Joaquin,077
+1081,95224,US,38.20440000,-120.36880000,Avery,California,Avery,California,CA,Calaveras,009
+1082,95246,US,38.23280000,-120.49940000,Mountain Ranch,California,Mountain Ranch,California,CA,Calaveras,009
+1083,95365,US,37.29080000,-120.31850000,Planada,California,Planada,California,CA,Merced,047
+1084,95401,US,38.44320000,-122.75470000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+1085,95404,US,38.44050000,-122.71440000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+1086,95405,US,38.43860000,-122.67270000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+1087,95423,US,39.06640000,-122.65580000,Clearlake Oaks,California,Clearlake Oaks,California,CA,Lake,033
+1088,95428,US,39.82000000,-123.05850000,Covelo,California,Covelo,California,CA,Mendocino,045
+1089,95431,US,38.34880000,-122.51080000,Eldridge,California,Eldridge,California,CA,Sonoma,097
+1090,95446,US,38.50550000,-122.99650000,Guerneville,California,Guerneville,California,CA,Sonoma,097
+1091,95450,US,38.49870000,-123.19740000,Jenner,California,Jenner,California,CA,Sonoma,097
+1092,95501,US,40.79380000,-124.15730000,Eureka,California,Eureka,California,CA,Humboldt,023
+1093,95503,US,40.75920000,-124.15930000,Eureka,California,Eureka,California,CA,Humboldt,023
+1094,95605,US,38.59270000,-121.53250000,West Sacramento,California,West Sacramento,California,CA,Yolo,113
+1095,95606,US,38.80650000,-122.20390000,Brooks,California,Brooks,California,CA,Yolo,113
+1096,95623,US,38.63300000,-120.84980000,El Dorado,California,El Dorado,California,CA,El Dorado,017
+1097,95633,US,38.86650000,-120.85670000,Garden Valley,California,Garden Valley,California,CA,El Dorado,017
+1098,95659,US,38.86570000,-121.55700000,Nicolaus,California,Nicolaus,California,CA,Sutter,101
+1099,95670,US,38.60720000,-121.27610000,Rancho Cordova,California,Rancho Cordova,California,CA,Sacramento,067
+1100,95674,US,38.96700000,-121.47730000,Rio Oso,California,Rio Oso,California,CA,Sutter,101
+1101,95686,US,38.22610000,-121.42360000,Thornton,California,Thornton,California,CA,San Joaquin,077
+1102,95714,US,39.19780000,-120.82620000,Dutch Flat,California,Dutch Flat,California,CA,Placer,061
+1103,95721,US,38.83380000,-120.04160000,Echo Lake,California,Echo Lake,California,CA,El Dorado,017
+1104,95736,US,39.03750000,-120.97130000,Weimar,California,Weimar,California,CA,Placer,061
+1105,95818,US,38.55680000,-121.49290000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1106,95827,US,38.56620000,-121.32860000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1107,95926,US,39.74580000,-121.84440000,Chico,California,Chico,California,CA,Butte,007
+1108,95936,US,39.56900000,-120.83440000,Downieville,California,Downieville,California,CA,Sierra,091
+1109,95975,US,39.22860000,-121.15090000,Rough And Ready,California,Rough And Ready,California,CA,Nevada,057
+1110,96009,US,41.13150000,-121.12860000,Bieber,California,Bieber,California,CA,Lassen,035
+1111,96069,US,40.68630000,-122.04090000,Oak Run,California,Oak Run,California,CA,Shasta,089
+1112,96071,US,40.62560000,-121.45850000,Old Station,California,Old Station,California,CA,Shasta,089
+1113,96096,US,40.65250000,-121.87710000,Whitmore,California,Whitmore,California,CA,Shasta,089
+1114,96103,US,40.19190000,-120.17460000,Blairsden Graeagle,California,Blairsden Graeagle,California,CA,Plumas,063
+1115,96110,US,41.31630000,-120.11580000,Eagleville,California,Eagleville,California,CA,Modoc,049
+1116,96112,US,41.86440000,-120.16200000,Fort Bidwell,California,Fort Bidwell,California,CA,Modoc,049
+1117,96126,US,39.58250000,-120.37110000,Sierraville,California,Sierraville,California,CA,Sierra,091
+1118,96137,US,40.30380000,-121.02260000,Westwood,California,Westwood,California,CA,Lassen,035
+1119,96150,US,38.91700000,-119.98650000,South Lake Tahoe,California,South Lake Tahoe,California,CA,El Dorado,017
+1120,90016,US,34.02980000,-118.35280000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1121,90017,US,34.05590000,-118.26660000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1122,90031,US,34.07830000,-118.21130000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1123,90043,US,33.98710000,-118.33210000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1124,90048,US,34.07370000,-118.37200000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1125,90049,US,34.06600000,-118.47400000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1126,90057,US,34.06220000,-118.27630000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1127,90071,US,34.05290000,-118.25490000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1128,90221,US,33.87960000,-118.21680000,Compton,California,Compton,California,CA,Los Angeles,037
+1129,90260,US,33.88790000,-118.35100000,Lawndale,California,Lawndale,California,CA,Los Angeles,037
+1130,90302,US,33.97450000,-118.35480000,Inglewood,California,Inglewood,California,CA,Los Angeles,037
+1131,90405,US,34.01000000,-118.47170000,Santa Monica,California,Santa Monica,California,CA,Los Angeles,037
+1132,90505,US,33.81060000,-118.35070000,Torrance,California,Torrance,California,CA,Los Angeles,037
+1133,90670,US,33.94640000,-118.08380000,Santa Fe Springs,California,Santa Fe Springs,California,CA,Los Angeles,037
+1134,90807,US,33.83150000,-118.18110000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+1135,91105,US,34.13550000,-118.16360000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+1136,91303,US,34.19930000,-118.59830000,Canoga Park,California,Canoga Park,California,CA,Los Angeles,037
+1137,91311,US,34.25830000,-118.59140000,Chatsworth,California,Chatsworth,California,CA,Los Angeles,037
+1138,91316,US,34.16550000,-118.51750000,Encino,California,Encino,California,CA,Los Angeles,037
+1139,91403,US,34.15140000,-118.46030000,Sherman Oaks,California,Sherman Oaks,California,CA,Los Angeles,037
+1140,91752,US,33.99380000,-117.52360000,Mira Loma,California,Mira Loma,California,CA,Riverside,065
+1141,91902,US,32.66710000,-117.02210000,Bonita,California,Bonita,California,CA,San Diego,073
+1142,91931,US,32.84970000,-116.55830000,Guatay,California,Guatay,California,CA,San Diego,073
+1143,91942,US,32.78350000,-117.01890000,La Mesa,California,La Mesa,California,CA,San Diego,073
+1144,92009,US,33.09540000,-117.26190000,Carlsbad,California,Carlsbad,California,CA,San Diego,073
+1145,92057,US,33.24070000,-117.30250000,Oceanside,California,Oceanside,California,CA,San Diego,073
+1146,92108,US,32.77830000,-117.13350000,San Diego,California,San Diego,California,CA,San Diego,073
+1147,92113,US,32.69700000,-117.11530000,San Diego,California,San Diego,California,CA,San Diego,073
+1148,92119,US,32.80360000,-117.02610000,San Diego,California,San Diego,California,CA,San Diego,073
+1149,92120,US,32.79580000,-117.07070000,San Diego,California,San Diego,California,CA,San Diego,073
+1150,92127,US,33.02790000,-117.08560000,San Diego,California,San Diego,California,CA,San Diego,073
+1151,92128,US,33.00670000,-117.06900000,San Diego,California,San Diego,California,CA,San Diego,073
+1152,92201,US,33.72070000,-116.21680000,Indio,California,Indio,California,CA,Riverside,065
+1153,92262,US,33.84140000,-116.53470000,Palm Springs,California,Palm Springs,California,CA,Riverside,065
+1154,92314,US,34.26100000,-116.81310000,Big Bear City,California,Big Bear City,California,CA,San Bernardino,071
+1155,92320,US,33.99460000,-117.04300000,Calimesa,California,Calimesa,California,CA,Riverside,065
+1156,92341,US,34.23480000,-117.06600000,Green Valley Lake,California,Green Valley Lake,California,CA,San Bernardino,071
+1157,92347,US,34.92790000,-117.18090000,Hinkley,California,Hinkley,California,CA,San Bernardino,071
+1158,92405,US,34.14460000,-117.30130000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+1159,92602,US,33.74190000,-117.74670000,Irvine,California,Irvine,California,CA,Orange,059
+1160,92627,US,33.64830000,-117.91550000,Costa Mesa,California,Costa Mesa,California,CA,Orange,059
+1161,92647,US,33.72100000,-118.00330000,Huntington Beach,California,Huntington Beach,California,CA,Orange,059
+1162,92676,US,33.74510000,-117.61530000,Silverado,California,Silverado,California,CA,Orange,059
+1163,92780,US,33.73640000,-117.82290000,Tustin,California,Tustin,California,CA,Orange,059
+1164,92808,US,33.85790000,-117.75130000,Anaheim,California,Anaheim,California,CA,Orange,059
+1165,92831,US,33.88730000,-117.89460000,Fullerton,California,Fullerton,California,CA,Orange,059
+1166,92883,US,33.75410000,-117.47400000,Corona,California,Corona,California,CA,Riverside,065
+1167,93013,US,34.40360000,-119.51830000,Carpinteria,California,Carpinteria,California,CA,Santa Barbara,083
+1168,93222,US,34.84690000,-119.15680000,Pine Mountain Club,California,Pine Mountain Club,California,CA,Kern,029
+1169,93245,US,36.26820000,-119.81730000,Lemoore,California,Lemoore,California,CA,Kings,031
+1170,93262,US,36.60070000,-118.71100000,Sequoia National Park,California,Sequoia National Park,California,CA,Tulare,107
+1171,93280,US,35.64800000,-119.44870000,Wasco,California,Wasco,California,CA,Kern,029
+1172,93306,US,35.38670000,-118.93910000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1173,93429,US,34.84580000,-120.53500000,Casmalia,California,Casmalia,California,CA,Santa Barbara,083
+1174,93434,US,34.96000000,-120.57030000,Guadalupe,California,Guadalupe,California,CA,Santa Barbara,083
+1175,93532,US,34.68470000,-118.54420000,Lake Hughes,California,Lake Hughes,California,CA,Los Angeles,037
+1176,93550,US,34.41330000,-118.09170000,Palmdale,California,Palmdale,California,CA,Los Angeles,037
+1177,93563,US,34.39660000,-117.76040000,Valyermo,California,Valyermo,California,CA,Los Angeles,037
+1178,93657,US,36.72430000,-119.54780000,Sanger,California,Sanger,California,CA,Fresno,019
+1179,93705,US,36.78630000,-119.82860000,Fresno,California,Fresno,California,CA,Fresno,019
+1180,93901,US,36.66770000,-121.65960000,Salinas,California,Salinas,California,CA,Monterey,053
+1181,93950,US,36.61670000,-121.92200000,Pacific Grove,California,Pacific Grove,California,CA,Monterey,053
+1182,93955,US,36.62170000,-121.79350000,Seaside,California,Seaside,California,CA,Monterey,053
+1183,94107,US,37.76210000,-122.39710000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1184,94401,US,37.57350000,-122.32250000,San Mateo,California,San Mateo,California,CA,San Mateo,081
+1185,94515,US,38.58230000,-122.58140000,Calistoga,California,Calistoga,California,CA,Napa,055
+1186,94544,US,37.63740000,-122.06700000,Hayward,California,Hayward,California,CA,Alameda,001
+1187,94549,US,37.89610000,-122.11190000,Lafayette,California,Lafayette,California,CA,Contra Costa,013
+1188,94611,US,37.84710000,-122.22230000,Oakland,California,Oakland,California,CA,Alameda,001
+1189,94924,US,37.90790000,-122.69470000,Bolinas,California,Bolinas,California,CA,Marin,041
+1190,95010,US,36.97670000,-121.95550000,Capitola,California,Capitola,California,CA,Santa Cruz,087
+1191,95014,US,37.31800000,-122.04490000,Cupertino,California,Cupertino,California,CA,Santa Clara,085
+1192,95035,US,37.43520000,-121.89500000,Milpitas,California,Milpitas,California,CA,Santa Clara,085
+1193,95050,US,37.34920000,-121.95300000,Santa Clara,California,Santa Clara,California,CA,Santa Clara,085
+1194,95117,US,37.31080000,-121.96230000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1195,95123,US,37.24580000,-121.83060000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1196,95223,US,38.30860000,-120.26800000,Arnold,California,Arnold,California,CA,Calaveras,009
+1197,95226,US,38.22710000,-120.85330000,Campo Seco,California,Campo Seco,California,CA,Calaveras,009
+1198,95227,US,38.19290000,-121.08110000,Clements,California,Clements,California,CA,San Joaquin,077
+1199,95237,US,38.16130000,-121.14240000,Lockeford,California,Lockeford,California,CA,San Joaquin,077
+1200,95330,US,37.82090000,-121.28270000,Lathrop,California,Lathrop,California,CA,San Joaquin,077
+1201,95358,US,37.62370000,-121.04380000,Modesto,California,Modesto,California,CA,Stanislaus,099
+1202,95364,US,38.18890000,-119.99240000,Pinecrest,California,Pinecrest,California,CA,Tuolumne,109
+1203,95374,US,37.32830000,-120.87640000,Stevinson,California,Stevinson,California,CA,Merced,047
+1204,95380,US,37.48880000,-120.85350000,Turlock,California,Turlock,California,CA,Stanislaus,099
+1205,95385,US,37.61760000,-121.25810000,Vernalis,California,Vernalis,California,CA,San Joaquin,077
+1206,95403,US,38.48220000,-122.74730000,Santa Rosa,California,Santa Rosa,California,CA,Sonoma,097
+1207,95476,US,38.28490000,-122.46960000,Sonoma,California,Sonoma,California,CA,Sonoma,097
+1208,95546,US,41.05040000,-123.67420000,Hoopa,California,Hoopa,California,CA,Humboldt,023
+1209,95554,US,40.28410000,-123.79450000,Myers Flat,California,Myers Flat,California,CA,Humboldt,023
+1210,95564,US,40.80370000,-124.19360000,Samoa,California,Samoa,California,CA,Humboldt,023
+1211,95595,US,40.21470000,-123.39110000,Zenia,California,Zenia,California,CA,Trinity,105
+1212,95612,US,38.39450000,-121.56410000,Clarksburg,California,Clarksburg,California,CA,Yolo,113
+1213,95632,US,38.26910000,-121.30000000,Galt,California,Galt,California,CA,Sacramento,067
+1214,95639,US,38.37020000,-121.51430000,Hood,California,Hood,California,CA,Sacramento,067
+1215,95690,US,38.23960000,-121.54430000,Walnut Grove,California,Walnut Grove,California,CA,Sacramento,067
+1216,95715,US,39.29680000,-120.67270000,Emigrant Gap,California,Emigrant Gap,California,CA,Placer,061
+1217,95758,US,38.42430000,-121.43700000,Elk Grove,California,Elk Grove,California,CA,Sacramento,067
+1218,95776,US,38.68080000,-121.74110000,Woodland,California,Woodland,California,CA,Yolo,113
+1219,95821,US,38.62390000,-121.38370000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1220,95842,US,38.68650000,-121.34940000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1221,95918,US,39.28820000,-121.33030000,Browns Valley,California,Browns Valley,California,CA,Yuba,115
+1222,95934,US,40.06730000,-120.92480000,Crescent Mills,California,Crescent Mills,California,CA,Plumas,063
+1223,95955,US,39.31630000,-122.18490000,Maxwell,California,Maxwell,California,CA,Colusa,011
+1224,95961,US,39.08610000,-121.54970000,Olivehurst,California,Olivehurst,California,CA,Yuba,115
+1225,96008,US,40.74090000,-122.07250000,Bella Vista,California,Bella Vista,California,CA,Shasta,089
+1226,96017,US,41.11030000,-122.31610000,Castella,California,Castella,California,CA,Shasta,089
+1227,96039,US,41.80180000,-123.38800000,Happy Camp,California,Happy Camp,California,CA,Siskiyou,093
+1228,96075,US,40.35140000,-121.76500000,Paynes Creek,California,Paynes Creek,California,CA,Tehama,103
+1229,96130,US,40.39830000,-120.64640000,Susanville,California,Susanville,California,CA,Lassen,035
+1230,96132,US,40.95090000,-120.61300000,Termo,California,Termo,California,CA,Lassen,035
+1231,96140,US,39.23190000,-120.07530000,Carnelian Bay,California,Carnelian Bay,California,CA,Placer,061
+1232,96143,US,39.24010000,-120.02330000,Kings Beach,California,Kings Beach,California,CA,Placer,061
+1233,90027,US,34.10400000,-118.29250000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1234,90245,US,33.92430000,-118.41190000,El Segundo,California,El Segundo,California,CA,Los Angeles,037
+1235,90290,US,34.10760000,-118.60230000,Topanga,California,Topanga,California,CA,Los Angeles,037
+1236,90291,US,33.99380000,-118.46350000,Venice,California,Venice,California,CA,Los Angeles,037
+1237,90502,US,33.82860000,-118.29200000,Torrance,California,Torrance,California,CA,Los Angeles,037
+1238,90822,US,33.79270000,-118.16380000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+1239,91010,US,34.14070000,-117.95670000,Duarte,California,Duarte,California,CA,Los Angeles,037
+1240,91104,US,34.16780000,-118.12610000,Pasadena,California,Pasadena,California,CA,Los Angeles,037
+1241,91367,US,34.17670000,-118.61590000,Woodland Hills,California,Woodland Hills,California,CA,Los Angeles,037
+1242,91739,US,34.17050000,-117.51820000,Rancho Cucamonga,California,Rancho Cucamonga,California,CA,San Bernardino,071
+1243,92111,US,32.79720000,-117.17080000,San Diego,California,San Diego,California,CA,San Diego,073
+1244,92124,US,32.82010000,-117.09860000,San Diego,California,San Diego,California,CA,San Diego,073
+1245,92404,US,34.14260000,-117.26060000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+1246,92411,US,34.12140000,-117.31720000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+1247,92505,US,33.92280000,-117.48670000,Riverside,California,Riverside,California,CA,Riverside,065
+1248,92530,US,33.65980000,-117.34850000,Lake Elsinore,California,Lake Elsinore,California,CA,Riverside,065
+1249,92582,US,33.78830000,-116.98190000,San Jacinto,California,San Jacinto,California,CA,Riverside,065
+1250,92624,US,33.46000000,-117.66320000,Capistrano Beach,California,Capistrano Beach,California,CA,Orange,059
+1251,92692,US,33.61440000,-117.64330000,Mission Viejo,California,Mission Viejo,California,CA,Orange,059
+1252,92844,US,33.76610000,-117.97380000,Garden Grove,California,Garden Grove,California,CA,Orange,059
+1253,92865,US,33.82630000,-117.85110000,Orange,California,Orange,California,CA,Orange,059
+1254,92868,US,33.78750000,-117.87760000,Orange,California,Orange,California,CA,Orange,059
+1255,93105,US,34.43690000,-119.72850000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+1256,93212,US,36.08650000,-119.56070000,Corcoran,California,Corcoran,California,CA,Kings,031
+1257,93223,US,36.30020000,-119.20540000,Farmersville,California,Farmersville,California,CA,Tulare,107
+1258,93243,US,34.88180000,-118.85660000,Lebec,California,Lebec,California,CA,Kern,029
+1259,93261,US,35.80500000,-119.13150000,Richgrove,California,Richgrove,California,CA,Tulare,107
+1260,93274,US,36.20220000,-119.33800000,Tulare,California,Tulare,California,CA,Tulare,107
+1261,93292,US,36.33020000,-119.29210000,Visalia,California,Visalia,California,CA,Tulare,107
+1262,93312,US,35.39350000,-119.12050000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1263,93436,US,34.65830000,-120.45060000,Lompoc,California,Lompoc,California,CA,Santa Barbara,083
+1264,93463,US,34.64880000,-120.17010000,Solvang,California,Solvang,California,CA,Santa Barbara,083
+1265,93501,US,35.04780000,-118.17350000,Mojave,California,Mojave,California,CA,Kern,029
+1266,93603,US,36.63130000,-119.01320000,Badger,California,Badger,California,CA,Tulare,107
+1267,93656,US,36.42950000,-119.87200000,Riverdale,California,Riverdale,California,CA,Fresno,019
+1268,93921,US,36.55520000,-121.92330000,Carmel By The Sea,California,Carmel By The Sea,California,CA,Monterey,053
+1269,93927,US,36.32020000,-121.24510000,Greenfield,California,Greenfield,California,CA,Monterey,053
+1270,94089,US,37.39830000,-122.00060000,Sunnyvale,California,Sunnyvale,California,CA,Santa Clara,085
+1271,94112,US,37.71950000,-122.44110000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1272,94303,US,37.46730000,-122.13880000,Palo Alto,California,Palo Alto,California,CA,San Mateo,081
+1273,94508,US,38.57690000,-122.44770000,Angwin,California,Angwin,California,CA,Napa,055
+1274,94517,US,37.91540000,-121.91000000,Clayton,California,Clayton,California,CA,Contra Costa,013
+1275,94603,US,37.74020000,-122.17100000,Oakland,California,Oakland,California,CA,Alameda,001
+1276,94804,US,37.92650000,-122.33420000,Richmond,California,Richmond,California,CA,Contra Costa,013
+1277,94928,US,38.34700000,-122.69410000,Rohnert Park,California,Rohnert Park,California,CA,Sonoma,097
+1278,94950,US,38.04670000,-122.76990000,Olema,California,Olema,California,CA,Marin,041
+1279,94973,US,38.00690000,-122.63820000,Woodacre,California,Woodacre,California,CA,Marin,041
+1280,95003,US,36.97970000,-121.89020000,Aptos,California,Aptos,California,CA,Santa Cruz,087
+1281,95076,US,36.91020000,-121.75690000,Watsonville,California,Watsonville,California,CA,Santa Cruz,087
+1282,95111,US,37.28270000,-121.82650000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1283,95321,US,37.82980000,-120.10370000,Groveland,California,Groveland,California,CA,Tuolumne,109
+1284,95327,US,37.89060000,-120.47170000,Jamestown,California,Jamestown,California,CA,Tuolumne,109
+1285,95334,US,37.37630000,-120.72520000,Livingston,California,Livingston,California,CA,Merced,047
+1286,95354,US,37.64090000,-120.97490000,Modesto,California,Modesto,California,CA,Stanislaus,099
+1287,95379,US,37.96780000,-120.23570000,Tuolumne,California,Tuolumne,California,CA,Tuolumne,109
+1288,95412,US,38.70260000,-123.35390000,Annapolis,California,Annapolis,California,CA,Sonoma,097
+1289,95444,US,38.43350000,-122.86760000,Graton,California,Graton,California,CA,Sonoma,097
+1290,95449,US,38.93800000,-123.07030000,Hopland,California,Hopland,California,CA,Mendocino,045
+1291,95463,US,39.18500000,-123.52680000,Navarro,California,Navarro,California,CA,Mendocino,045
+1292,95527,US,40.78970000,-123.41130000,Burnt Ranch,California,Burnt Ranch,California,CA,Trinity,105
+1293,95558,US,40.28680000,-124.22710000,Petrolia,California,Petrolia,California,CA,Humboldt,023
+1294,95614,US,38.89230000,-120.98020000,Cool,California,Cool,California,CA,El Dorado,017
+1295,95646,US,38.69180000,-120.07360000,Kirkwood,California,Kirkwood,California,CA,Alpine,003
+1296,95672,US,38.71940000,-120.99450000,Rescue,California,Rescue,California,CA,El Dorado,017
+1297,95685,US,38.41750000,-120.79510000,Sutter Creek,California,Sutter Creek,California,CA,Amador,005
+1298,95693,US,38.39830000,-121.23030000,Wilton,California,Wilton,California,CA,Sacramento,067
+1299,95720,US,38.78250000,-120.25690000,Kyburz,California,Kyburz,California,CA,El Dorado,017
+1300,95825,US,38.58920000,-121.40570000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1301,95837,US,38.68170000,-121.60300000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1302,95948,US,39.35320000,-121.71370000,Gridley,California,Gridley,California,CA,Butte,007
+1303,95963,US,39.73140000,-122.25340000,Orland,California,Orland,California,CA,Glenn,021
+1304,95983,US,40.03570000,-120.73530000,Taylorsville,California,Taylorsville,California,CA,Plumas,063
+1305,96016,US,40.93370000,-121.56770000,Cassel,California,Cassel,California,CA,Shasta,089
+1306,96025,US,41.21240000,-122.27340000,Dunsmuir,California,Dunsmuir,California,CA,Siskiyou,093
+1307,96027,US,41.44630000,-123.01000000,Etna,California,Etna,California,CA,Siskiyou,093
+1308,96056,US,41.05020000,-121.39910000,Mcarthur,California,Mcarthur,California,CA,Shasta,089
+1309,96061,US,40.32630000,-121.52280000,Mill Creek,California,Mill Creek,California,CA,Tehama,103
+1310,96076,US,40.37600000,-122.93700000,Platina,California,Platina,California,CA,Shasta,089
+1311,96136,US,40.34060000,-120.28240000,Wendel,California,Wendel,California,CA,Lassen,035
+1312,96141,US,39.07860000,-120.17340000,Homewood,California,Homewood,California,CA,Placer,061
+1313,90069,US,34.09060000,-118.37880000,West Hollywood,California,West Hollywood,California,CA,Los Angeles,037
+1314,90716,US,33.82960000,-118.07300000,Hawaiian Gardens,California,Hawaiian Gardens,California,CA,Los Angeles,037
+1315,90805,US,33.86350000,-118.18010000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+1316,91205,US,34.13780000,-118.24250000,Glendale,California,Glendale,California,CA,Los Angeles,037
+1317,91306,US,34.20920000,-118.57490000,Winnetka,California,Winnetka,California,CA,Los Angeles,037
+1318,91340,US,34.28750000,-118.43520000,San Fernando,California,San Fernando,California,CA,Los Angeles,037
+1319,91343,US,34.23660000,-118.47580000,North Hills,California,North Hills,California,CA,Los Angeles,037
+1320,91730,US,34.10700000,-117.59410000,Rancho Cucamonga,California,Rancho Cucamonga,California,CA,San Bernardino,071
+1321,91763,US,34.07330000,-117.69870000,Montclair,California,Montclair,California,CA,San Bernardino,071
+1322,91792,US,34.02290000,-117.89750000,West Covina,California,West Covina,California,CA,Los Angeles,037
+1323,91932,US,32.57830000,-117.11480000,Imperial Beach,California,Imperial Beach,California,CA,San Diego,073
+1324,91977,US,32.72400000,-116.99760000,Spring Valley,California,Spring Valley,California,CA,San Diego,073
+1325,92024,US,33.05350000,-117.26890000,Encinitas,California,Encinitas,California,CA,San Diego,073
+1326,92064,US,32.97560000,-117.04020000,Poway,California,Poway,California,CA,San Diego,073
+1327,92075,US,32.99370000,-117.25980000,Solana Beach,California,Solana Beach,California,CA,San Diego,073
+1328,92103,US,32.74660000,-117.16360000,San Diego,California,San Diego,California,CA,San Diego,073
+1329,92223,US,33.95040000,-116.97010000,Beaumont,California,Beaumont,California,CA,Riverside,065
+1330,92233,US,33.16700000,-115.51140000,Calipatria,California,Calipatria,California,CA,Imperial,025
+1331,92251,US,32.84700000,-115.57300000,Imperial,California,Imperial,California,CA,Imperial,025
+1332,92259,US,32.73870000,-115.99420000,Ocotillo,California,Ocotillo,California,CA,Imperial,025
+1333,92264,US,33.80180000,-116.51700000,Palm Springs,California,Palm Springs,California,CA,Riverside,065
+1334,90008,US,34.01160000,-118.34110000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1335,90021,US,34.03330000,-118.24470000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1336,90035,US,34.05310000,-118.38060000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1337,90046,US,34.10740000,-118.36520000,Los Angeles,California,Los Angeles,California,CA,Los Angeles,037
+1338,90201,US,33.96530000,-118.15150000,Bell Gardens,California,Bell Gardens,California,CA,Los Angeles,037
+1339,90220,US,33.87480000,-118.24020000,Compton,California,Compton,California,CA,Los Angeles,037
+1340,90249,US,33.89980000,-118.31990000,Gardena,California,Gardena,California,CA,Los Angeles,037
+1341,90266,US,33.88960000,-118.39960000,Manhattan Beach,California,Manhattan Beach,California,CA,Los Angeles,037
+1342,90270,US,33.98900000,-118.18770000,Maywood,California,Maywood,California,CA,Los Angeles,037
+1343,90274,US,33.76690000,-118.38060000,Palos Verdes Peninsula,California,Palos Verdes Peninsula,California,CA,Los Angeles,037
+1344,90275,US,33.75150000,-118.36700000,Rancho Palos Verdes,California,Rancho Palos Verdes,California,CA,Los Angeles,037
+1345,90293,US,33.95770000,-118.43730000,Playa Del Rey,California,Playa Del Rey,California,CA,Los Angeles,037
+1346,90401,US,34.01760000,-118.49070000,Santa Monica,California,Santa Monica,California,CA,Los Angeles,037
+1347,90601,US,34.00110000,-118.03710000,Whittier,California,Whittier,California,CA,Los Angeles,037
+1348,90604,US,33.92990000,-118.01210000,Whittier,California,Whittier,California,CA,Los Angeles,037
+1349,90630,US,33.81810000,-118.03570000,Cypress,California,Cypress,California,CA,Orange,059
+1350,90650,US,33.90560000,-118.08180000,Norwalk,California,Norwalk,California,CA,Los Angeles,037
+1351,90715,US,33.84050000,-118.07670000,Lakewood,California,Lakewood,California,CA,Los Angeles,037
+1352,90743,US,33.72640000,-118.08330000,Surfside,California,Surfside,California,CA,Orange,059
+1353,90806,US,33.80450000,-118.18760000,Long Beach,California,Long Beach,California,CA,Los Angeles,037
+1354,91006,US,34.13240000,-118.02640000,Arcadia,California,Arcadia,California,CA,Los Angeles,037
+1355,91214,US,34.23160000,-118.24570000,La Crescenta,California,La Crescenta,California,CA,Los Angeles,037
+1356,91302,US,34.14190000,-118.66410000,Calabasas,California,Calabasas,California,CA,Los Angeles,037
+1357,91320,US,34.17740000,-118.93580000,Newbury Park,California,Newbury Park,California,CA,Ventura,111
+1358,91364,US,34.15570000,-118.60000000,Woodland Hills,California,Woodland Hills,California,CA,Los Angeles,037
+1359,91377,US,34.18500000,-118.76690000,Oak Park,California,Oak Park,California,CA,Ventura,111
+1360,91406,US,34.20060000,-118.48680000,Van Nuys,California,Van Nuys,California,CA,Los Angeles,037
+1361,91505,US,34.16900000,-118.34420000,Burbank,California,Burbank,California,CA,Los Angeles,037
+1362,91602,US,34.15100000,-118.36630000,North Hollywood,California,North Hollywood,California,CA,Los Angeles,037
+1363,91701,US,34.13760000,-117.59990000,Rancho Cucamonga,California,Rancho Cucamonga,California,CA,San Bernardino,071
+1364,91724,US,34.09380000,-117.85600000,Covina,California,Covina,California,CA,Los Angeles,037
+1365,91759,US,33.78660000,-118.29870000,Mt Baldy,California,Mt Baldy,California,CA,Los Angeles,037
+1366,91765,US,34.00660000,-117.80980000,Diamond Bar,California,Diamond Bar,California,CA,Los Angeles,037
+1367,91780,US,34.10160000,-118.05370000,Temple City,California,Temple City,California,CA,Los Angeles,037
+1368,91784,US,34.14100000,-117.65810000,Upland,California,Upland,California,CA,San Bernardino,071
+1369,91914,US,32.65870000,-116.96520000,Chula Vista,California,Chula Vista,California,CA,San Diego,073
+1370,91917,US,32.61520000,-116.72850000,Dulzura,California,Dulzura,California,CA,San Diego,073
+1371,91935,US,32.71630000,-116.83230000,Jamul,California,Jamul,California,CA,San Diego,073
+1372,92007,US,33.02300000,-117.27450000,Cardiff By The Sea,California,Cardiff By The Sea,California,CA,San Diego,073
+1373,92021,US,32.81780000,-116.92230000,El Cajon,California,El Cajon,California,CA,San Diego,073
+1374,92025,US,33.11010000,-117.07000000,Escondido,California,Escondido,California,CA,San Diego,073
+1375,92026,US,33.16050000,-117.09780000,Escondido,California,Escondido,California,CA,San Diego,073
+1376,92054,US,33.20720000,-117.35730000,Oceanside,California,Oceanside,California,CA,San Diego,073
+1377,92056,US,33.19680000,-117.28310000,Oceanside,California,Oceanside,California,CA,San Diego,073
+1378,92069,US,33.14440000,-117.16970000,San Marcos,California,San Marcos,California,CA,San Diego,073
+1379,92091,US,32.96230000,-117.04620000,Rancho Santa Fe,California,Rancho Santa Fe,California,CA,San Diego,073
+1380,92101,US,32.71850000,-117.15930000,San Diego,California,San Diego,California,CA,San Diego,073
+1381,92225,US,33.61030000,-114.59630000,Blythe,California,Blythe,California,CA,Riverside,065
+1382,92236,US,33.67500000,-116.17720000,Coachella,California,Coachella,California,CA,Riverside,065
+1383,92252,US,34.15020000,-116.30380000,Joshua Tree,California,Joshua Tree,California,CA,San Bernardino,071
+1384,92254,US,33.54500000,-116.01870000,Mecca,California,Mecca,California,CA,Riverside,065
+1385,92275,US,33.30920000,-115.95780000,Salton City,California,Salton City,California,CA,Imperial,025
+1386,92283,US,32.98180000,-114.68540000,Winterhaven,California,Winterhaven,California,CA,Imperial,025
+1387,92285,US,34.31030000,-116.52410000,Landers,California,Landers,California,CA,San Bernardino,071
+1388,92310,US,35.26250000,-116.69660000,Fort Irwin,California,Fort Irwin,California,CA,San Bernardino,071
+1389,92311,US,34.89140000,-117.03870000,Barstow,California,Barstow,California,CA,San Bernardino,071
+1390,92313,US,34.03100000,-117.31290000,Grand Terrace,California,Grand Terrace,California,CA,San Bernardino,071
+1391,92315,US,34.23500000,-116.90530000,Big Bear Lake,California,Big Bear Lake,California,CA,San Bernardino,071
+1392,92328,US,36.46720000,-116.89370000,Death Valley,California,Death Valley,California,CA,Inyo,027
+1393,92332,US,34.58810000,-115.57710000,Essex,California,Essex,California,CA,San Bernardino,071
+1394,92335,US,34.07940000,-117.45510000,Fontana,California,Fontana,California,CA,San Bernardino,071
+1395,92339,US,34.09370000,-116.93620000,Forest Falls,California,Forest Falls,California,CA,San Bernardino,071
+1396,92345,US,34.42220000,-117.30250000,Hesperia,California,Hesperia,California,CA,San Bernardino,071
+1397,92346,US,34.12830000,-117.20870000,Highland,California,Highland,California,CA,San Bernardino,071
+1398,92352,US,34.26060000,-117.20160000,Lake Arrowhead,California,Lake Arrowhead,California,CA,San Bernardino,071
+1399,92354,US,34.05280000,-117.25130000,Loma Linda,California,Loma Linda,California,CA,San Bernardino,071
+1400,92363,US,34.78240000,-114.58710000,Needles,California,Needles,California,CA,San Bernardino,071
+1401,92376,US,34.11320000,-117.37710000,Rialto,California,Rialto,California,CA,San Bernardino,071
+1402,92407,US,34.21660000,-117.39080000,San Bernardino,California,San Bernardino,California,CA,San Bernardino,071
+1403,92507,US,33.97610000,-117.33890000,Riverside,California,Riverside,California,CA,Riverside,065
+1404,92545,US,33.73990000,-117.01510000,Hemet,California,Hemet,California,CA,Riverside,065
+1405,92561,US,33.70420000,-116.72590000,Mountain Center,California,Mountain Center,California,CA,Riverside,065
+1406,92585,US,33.74670000,-117.17210000,Sun City,California,Sun City,California,CA,Riverside,065
+1407,92604,US,33.68990000,-117.78680000,Irvine,California,Irvine,California,CA,Orange,059
+1408,92614,US,33.68290000,-117.82980000,Irvine,California,Irvine,California,CA,Orange,059
+1409,92649,US,33.71800000,-118.05050000,Huntington Beach,California,Huntington Beach,California,CA,Orange,059
+1410,92653,US,33.59160000,-117.69850000,Laguna Hills,California,Laguna Hills,California,CA,Orange,059
+1411,92656,US,33.57010000,-117.70860000,Aliso Viejo,California,Aliso Viejo,California,CA,Orange,059
+1412,92673,US,33.46150000,-117.63750000,San Clemente,California,San Clemente,California,CA,Orange,059
+1413,92675,US,33.50850000,-117.65650000,San Juan Capistrano,California,San Juan Capistrano,California,CA,Orange,059
+1414,92683,US,33.75240000,-117.99390000,Westminster,California,Westminster,California,CA,Orange,059
+1415,92691,US,33.61280000,-117.66220000,Mission Viejo,California,Mission Viejo,California,CA,Orange,059
+1416,92703,US,33.74890000,-117.90720000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+1417,92704,US,33.72490000,-117.90900000,Santa Ana,California,Santa Ana,California,CA,Orange,059
+1418,92840,US,33.78690000,-117.92730000,Garden Grove,California,Garden Grove,California,CA,Orange,059
+1419,92861,US,33.82050000,-117.81040000,Villa Park,California,Villa Park,California,CA,Orange,059
+1420,92866,US,33.78770000,-117.84230000,Orange,California,Orange,California,CA,Orange,059
+1421,92867,US,33.81100000,-117.84930000,Orange,California,Orange,California,CA,Orange,059
+1422,92879,US,33.87970000,-117.53540000,Corona,California,Corona,California,CA,Riverside,065
+1423,92881,US,33.82410000,-117.51980000,Corona,California,Corona,California,CA,Riverside,065
+1424,93004,US,34.27880000,-119.16510000,Ventura,California,Ventura,California,CA,Ventura,111
+1425,93015,US,34.39920000,-118.91820000,Fillmore,California,Fillmore,California,CA,Ventura,111
+1426,93033,US,34.16850000,-119.17170000,Oxnard,California,Oxnard,California,CA,Ventura,111
+1427,93111,US,34.44530000,-119.80250000,Santa Barbara,California,Santa Barbara,California,CA,Santa Barbara,083
+1428,93117,US,34.42960000,-119.86120000,Goleta,California,Goleta,California,CA,Santa Barbara,083
+1429,93203,US,35.19660000,-118.83360000,Arvin,California,Arvin,California,CA,Kern,029
+1430,93226,US,35.73770000,-118.71690000,Glennville,California,Glennville,California,CA,Kern,029
+1431,93230,US,36.33140000,-119.64910000,Hanford,California,Hanford,California,CA,Kings,031
+1432,93240,US,35.66900000,-118.45700000,Lake Isabella,California,Lake Isabella,California,CA,Kern,029
+1433,93242,US,36.43780000,-119.71560000,Laton,California,Laton,California,CA,Fresno,019
+1434,93250,US,35.67580000,-119.22720000,Mc Farland,California,Mc Farland,California,CA,Kern,029
+1435,93271,US,36.43770000,-118.88750000,Three Rivers,California,Three Rivers,California,CA,Tulare,107
+1436,93276,US,35.29920000,-119.35840000,Tupman,California,Tupman,California,CA,Kern,029
+1437,93304,US,35.33960000,-119.02180000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1438,93305,US,35.38550000,-118.98600000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1439,93307,US,35.32750000,-118.98390000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1440,93308,US,35.42440000,-119.04330000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1441,93309,US,35.33840000,-119.06270000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1442,93420,US,35.16610000,-120.46510000,Arroyo Grande,California,Arroyo Grande,California,CA,San Luis Obispo,079
+1443,93430,US,35.44460000,-120.89080000,Cayucos,California,Cayucos,California,CA,San Luis Obispo,079
+1444,93433,US,35.12100000,-120.61730000,Grover Beach,California,Grover Beach,California,CA,San Luis Obispo,079
+1445,93446,US,35.64060000,-120.70030000,Paso Robles,California,Paso Robles,California,CA,San Luis Obispo,079
+1446,93450,US,35.98570000,-120.86120000,San Ardo,California,San Ardo,California,CA,Monterey,053
+1447,93452,US,35.66680000,-121.14400000,San Simeon,California,San Simeon,California,CA,San Luis Obispo,079
+1448,93453,US,35.35840000,-120.25960000,Santa Margarita,California,Santa Margarita,California,CA,San Luis Obispo,079
+1449,93454,US,34.95450000,-120.43250000,Santa Maria,California,Santa Maria,California,CA,Santa Barbara,083
+1450,93455,US,34.82860000,-120.42680000,Santa Maria,California,Santa Maria,California,CA,Santa Barbara,083
+1451,93522,US,36.29480000,-117.59570000,Darwin,California,Darwin,California,CA,Inyo,027
+1452,93529,US,37.77730000,-119.08250000,June Lake,California,June Lake,California,CA,Mono,051
+1453,93543,US,34.48910000,-117.97080000,Littlerock,California,Littlerock,California,CA,Los Angeles,037
+1454,93544,US,34.49300000,-117.75430000,Llano,California,Llano,California,CA,Los Angeles,037
+1455,93546,US,37.60940000,-118.86560000,Mammoth Lakes,California,Mammoth Lakes,California,CA,Mono,051
+1456,93602,US,37.07260000,-119.45720000,Auberry,California,Auberry,California,CA,Fresno,019
+1457,93614,US,37.22140000,-119.74550000,Coarsegold,California,Coarsegold,California,CA,Madera,039
+1458,93620,US,37.00250000,-120.63330000,Dos Palos,California,Dos Palos,California,CA,Merced,047
+1459,93622,US,36.86510000,-120.47000000,Firebaugh,California,Firebaugh,California,CA,Fresno,019
+1460,93623,US,37.47850000,-119.64040000,Fish Camp,California,Fish Camp,California,CA,Mariposa,043
+1461,93635,US,37.06270000,-120.85440000,Los Banos,California,Los Banos,California,CA,Merced,047
+1462,93646,US,36.62550000,-119.32040000,Orange Cove,California,Orange Cove,California,CA,Fresno,019
+1463,93653,US,37.27900000,-119.87660000,Raymond,California,Raymond,California,CA,Madera,039
+1464,93654,US,36.60440000,-119.43780000,Reedley,California,Reedley,California,CA,Fresno,019
+1465,93669,US,37.28100000,-119.55700000,Wishon,California,Wishon,California,CA,Madera,039
+1466,93710,US,36.82360000,-119.76210000,Fresno,California,Fresno,California,CA,Fresno,019
+1467,93727,US,36.75280000,-119.70610000,Fresno,California,Fresno,California,CA,Fresno,019
+1468,93907,US,36.75630000,-121.67030000,Salinas,California,Salinas,California,CA,Monterey,053
+1469,93926,US,36.49000000,-121.41030000,Gonzales,California,Gonzales,California,CA,Monterey,053
+1470,93960,US,36.41960000,-121.32430000,Soledad,California,Soledad,California,CA,Monterey,053
+1471,93962,US,36.62610000,-121.65550000,Spreckels,California,Spreckels,California,CA,Monterey,053
+1472,94020,US,37.27260000,-122.24950000,La Honda,California,La Honda,California,CA,San Mateo,081
+1473,94038,US,37.53100000,-122.50680000,Moss Beach,California,Moss Beach,California,CA,San Mateo,081
+1474,94041,US,37.38930000,-122.07830000,Mountain View,California,Mountain View,California,CA,Santa Clara,085
+1475,94065,US,37.53310000,-122.24860000,Redwood City,California,Redwood City,California,CA,San Mateo,081
+1476,94070,US,37.49690000,-122.26740000,San Carlos,California,San Carlos,California,CA,San Mateo,081
+1477,94087,US,37.35020000,-122.03490000,Sunnyvale,California,Sunnyvale,California,CA,Santa Clara,085
+1478,94116,US,37.74410000,-122.48630000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1479,94118,US,37.78120000,-122.46140000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1480,94124,US,37.73090000,-122.38860000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1481,94133,US,37.80020000,-122.40910000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1482,94134,US,37.71900000,-122.40960000,San Francisco,California,San Francisco,California,CA,City and County of San Francisco,075
+1483,94305,US,37.42360000,-122.16190000,Stanford,California,Stanford,California,CA,Santa Clara,085
+1484,94404,US,37.55380000,-122.27000000,San Mateo,California,San Mateo,California,CA,San Mateo,081
+1485,94502,US,37.73510000,-122.24310000,Alameda,California,Alameda,California,CA,Alameda,001
+1486,94506,US,37.83210000,-121.91670000,Danville,California,Danville,California,CA,Contra Costa,013
+1487,94510,US,38.06850000,-122.16140000,Benicia,California,Benicia,California,CA,Solano,095
+1488,94513,US,37.93240000,-121.68940000,Brentwood,California,Brentwood,California,CA,Contra Costa,013
+1489,94518,US,37.95040000,-122.02630000,Concord,California,Concord,California,CA,Contra Costa,013
+1490,94547,US,38.00660000,-122.26370000,Hercules,California,Hercules,California,CA,Contra Costa,013
+1491,94552,US,37.71310000,-122.03810000,Castro Valley,California,Castro Valley,California,CA,Alameda,001
+1492,94577,US,37.72050000,-122.15870000,San Leandro,California,San Leandro,California,CA,Alameda,001
+1493,94578,US,37.70240000,-122.12400000,San Leandro,California,San Leandro,California,CA,Alameda,001
+1494,94585,US,38.24080000,-122.04200000,Suisun City,California,Suisun City,California,CA,Solano,095
+1495,94610,US,37.81260000,-122.24430000,Oakland,California,Oakland,California,CA,Alameda,001
+1496,94612,US,37.80850000,-122.26680000,Oakland,California,Oakland,California,CA,Alameda,001
+1497,94702,US,37.86560000,-122.28510000,Berkeley,California,Berkeley,California,CA,Alameda,001
+1498,94920,US,37.88430000,-122.46370000,Belvedere Tiburon,California,Belvedere Tiburon,California,CA,Marin,041
+1499,94922,US,38.35140000,-122.97410000,Bodega,California,Bodega,California,CA,Sonoma,097
+1500,94930,US,37.98830000,-122.59370000,Fairfax,California,Fairfax,California,CA,Marin,041
+1501,94938,US,38.01390000,-122.70160000,Lagunitas,California,Lagunitas,California,CA,Marin,041
+1502,94963,US,38.01330000,-122.66390000,San Geronimo,California,San Geronimo,California,CA,Marin,041
+1503,95033,US,37.15390000,-121.98160000,Los Gatos,California,Los Gatos,California,CA,Santa Clara,085
+1504,95041,US,37.05110000,-122.05750000,Mount Hermon,California,Mount Hermon,California,CA,Santa Cruz,087
+1505,95043,US,36.49850000,-120.97440000,Paicines,California,Paicines,California,CA,San Benito,069
+1506,95051,US,37.34830000,-121.98440000,Santa Clara,California,Santa Clara,California,CA,Santa Clara,085
+1507,95064,US,36.99590000,-122.05780000,Santa Cruz,California,Santa Cruz,California,CA,Santa Cruz,087
+1508,95073,US,37.00480000,-121.95070000,Soquel,California,Soquel,California,CA,Santa Cruz,087
+1509,95118,US,37.25680000,-121.88960000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1510,95119,US,37.23290000,-121.78750000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1511,95122,US,37.32930000,-121.83390000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1512,95124,US,37.25630000,-121.92290000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1513,95133,US,37.37290000,-121.85600000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1514,95138,US,37.26020000,-121.77090000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1515,95140,US,37.35110000,-121.63840000,Mount Hamilton,California,Mount Hamilton,California,CA,Santa Clara,085
+1516,95148,US,37.33040000,-121.79130000,San Jose,California,San Jose,California,CA,Santa Clara,085
+1517,95205,US,37.96250000,-121.26240000,Stockton,California,Stockton,California,CA,San Joaquin,077
+1518,95225,US,38.18380000,-120.88940000,Burson,California,Burson,California,CA,Calaveras,009
+1519,95245,US,38.31520000,-120.55910000,Mokelumne Hill,California,Mokelumne Hill,California,CA,Calaveras,009
+1520,95249,US,38.19040000,-120.64410000,San Andreas,California,San Andreas,California,CA,Calaveras,009
+1521,95257,US,38.37930000,-120.46270000,Wilseyville,California,Wilseyville,California,CA,Calaveras,009
+1522,95307,US,37.58330000,-120.94960000,Ceres,California,Ceres,California,CA,Stanislaus,099
+1523,95320,US,37.79830000,-121.00060000,Escalon,California,Escalon,California,CA,San Joaquin,077
+1524,95325,US,37.46760000,-120.27930000,Hornitos,California,Hornitos,California,CA,Mariposa,043
+1525,95328,US,37.55910000,-120.91480000,Keyes,California,Keyes,California,CA,Stanislaus,099
+1526,95336,US,37.81340000,-121.21320000,Manteca,California,Manteca,California,CA,San Joaquin,077
+1527,95337,US,37.78080000,-121.23440000,Manteca,California,Manteca,California,CA,San Joaquin,077
+1528,95370,US,37.99570000,-120.33680000,Sonora,California,Sonora,California,CA,Tuolumne,109
+1529,95376,US,37.73830000,-121.43450000,Tracy,California,Tracy,California,CA,San Joaquin,077
+1530,95415,US,39.01970000,-123.38560000,Boonville,California,Boonville,California,CA,Mendocino,045
+1531,95430,US,38.45380000,-123.05500000,Duncans Mills,California,Duncans Mills,California,CA,Sonoma,097
+1532,95436,US,38.49230000,-122.90420000,Forestville,California,Forestville,California,CA,Sonoma,097
+1533,95437,US,39.44020000,-123.77030000,Fort Bragg,California,Fort Bragg,California,CA,Mendocino,045
+1534,95441,US,38.71730000,-122.88340000,Geyserville,California,Geyserville,California,CA,Sonoma,097
+1535,95452,US,38.41680000,-122.55470000,Kenwood,California,Kenwood,California,CA,Sonoma,097
+1536,95456,US,39.27070000,-123.78830000,Little River,California,Little River,California,CA,Mendocino,045
+1537,95457,US,38.89150000,-122.59140000,Lower Lake,California,Lower Lake,California,CA,Lake,033
+1538,95462,US,38.47060000,-123.01720000,Monte Rio,California,Monte Rio,California,CA,Sonoma,097
+1539,95469,US,39.39320000,-123.06470000,Potter Valley,California,Potter Valley,California,CA,Mendocino,045
+1540,95472,US,38.39410000,-122.84330000,Sebastopol,California,Sebastopol,California,CA,Sonoma,097
+1541,95485,US,39.18040000,-122.91440000,Upper Lake,California,Upper Lake,California,CA,Lake,033
+1542,95490,US,39.44930000,-123.36790000,Willits,California,Willits,California,CA,Mendocino,045
+1543,95492,US,38.54430000,-122.80730000,Windsor,California,Windsor,California,CA,Sonoma,097
+1544,95514,US,40.29870000,-123.65760000,Blocksburg,California,Blocksburg,California,CA,Humboldt,023
+1545,95521,US,40.87420000,-124.07650000,Arcata,California,Arcata,California,CA,Humboldt,023
+1546,95528,US,40.50700000,-123.97430000,Carlotta,California,Carlotta,California,CA,Humboldt,023
+1547,95540,US,40.58350000,-124.14730000,Fortuna,California,Fortuna,California,CA,Humboldt,023
+1548,95549,US,40.64050000,-123.88260000,Kneeland,California,Kneeland,California,CA,Humboldt,023
+1549,95552,US,40.33160000,-123.39040000,Mad River,California,Mad River,California,CA,Trinity,105
+1550,95555,US,41.35960000,-124.03170000,Orick,California,Orick,California,CA,Humboldt,023
+1551,95556,US,41.31150000,-123.53990000,Orleans,California,Orleans,California,CA,Humboldt,023
+1552,95559,US,40.20080000,-123.77350000,Phillipsville,California,Phillipsville,California,CA,Humboldt,023
+1553,95565,US,40.45830000,-124.05170000,Scotia,California,Scotia,California,CA,Humboldt,023
+1554,95571,US,40.32180000,-123.92170000,Weott,California,Weott,California,CA,Humboldt,023
+1555,95573,US,40.94840000,-123.62760000,Willow Creek,California,Willow Creek,California,CA,Humboldt,023
+1556,95585,US,39.84810000,-123.66150000,Leggett,California,Leggett,California,CA,Mendocino,045
+1557,95603,US,38.91150000,-121.08000000,Auburn,California,Auburn,California,CA,Placer,061
+1558,95627,US,38.70610000,-122.01520000,Esparto,California,Esparto,California,CA,Yolo,113
+1559,95629,US,38.52340000,-120.67630000,Fiddletown,California,Fiddletown,California,CA,Amador,005
+1560,95631,US,39.06820000,-120.72240000,Foresthill,California,Foresthill,California,CA,Placer,061
+1561,95634,US,38.91850000,-120.75990000,Georgetown,California,Georgetown,California,CA,El Dorado,017
+1562,95640,US,38.33240000,-120.94180000,Ione,California,Ione,California,CA,Amador,005
+1563,95660,US,38.67070000,-121.37810000,North Highlands,California,North Highlands,California,CA,Sacramento,067
+1564,95667,US,38.71950000,-120.80460000,Placerville,California,Placerville,California,CA,El Dorado,017
+1565,95675,US,38.54630000,-120.74300000,River Pines,California,River Pines,California,CA,Amador,005
+1566,95677,US,38.78770000,-121.23660000,Rocklin,California,Rocklin,California,CA,Placer,061
+1567,95689,US,38.47650000,-120.60170000,Volcano,California,Volcano,California,CA,Amador,005
+1568,95691,US,38.56730000,-121.55160000,West Sacramento,California,West Sacramento,California,CA,Yolo,113
+1569,95701,US,39.24410000,-120.75310000,Alta,California,Alta,California,CA,Placer,061
+1570,95717,US,39.17100000,-120.86010000,Gold Run,California,Gold Run,California,CA,Placer,061
+1571,95762,US,38.68500000,-121.06800000,El Dorado Hills,California,El Dorado Hills,California,CA,El Dorado,017
+1572,95765,US,38.81360000,-121.26770000,Rocklin,California,Rocklin,California,CA,Placer,061
+1573,95816,US,38.57280000,-121.46750000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1574,95830,US,38.48960000,-121.27720000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1575,95834,US,38.63830000,-121.50720000,Sacramento,California,Sacramento,California,CA,Sacramento,067
+1576,95901,US,39.16630000,-121.51050000,Marysville,California,Marysville,California,CA,Yuba,115
+1577,95910,US,39.48260000,-120.84830000,Alleghany,California,Alleghany,California,CA,Sierra,091
+1578,95917,US,39.41620000,-121.71890000,Biggs,California,Biggs,California,CA,Butte,007
+1579,95944,US,39.53990000,-120.88440000,Goodyears Bar,California,Goodyears Bar,California,CA,Sierra,091
+1580,95945,US,39.20810000,-121.00690000,Grass Valley,California,Grass Valley,California,CA,Nevada,057
+1581,95957,US,39.05200000,-121.80610000,Meridian,California,Meridian,California,CA,Sutter,101
+1582,95962,US,39.34590000,-121.26630000,Oregon House,California,Oregon House,California,CA,Yuba,115
+1583,95965,US,39.60540000,-121.57510000,Oroville,California,Oroville,California,CA,Butte,007
+1584,95973,US,39.80320000,-121.86730000,Chico,California,Chico,California,CA,Butte,007
+1585,95974,US,39.49590000,-121.74800000,Richvale,California,Richvale,California,CA,Butte,007
+1586,95977,US,39.20760000,-121.30010000,Smartsville,California,Smartsville,California,CA,Nevada,057
+1587,95978,US,39.90770000,-121.52690000,Stirling City,California,Stirling City,California,CA,Butte,007
+1588,95979,US,39.31760000,-122.53930000,Stonyford,California,Stonyford,California,CA,Colusa,011
+1589,95986,US,39.35690000,-120.80000000,Washington,California,Washington,California,CA,Nevada,057
+1590,95991,US,39.10510000,-121.62020000,Yuba City,California,Yuba City,California,CA,Sutter,101
+1591,96003,US,40.62780000,-122.35300000,Redding,California,Redding,California,CA,Shasta,089
+1592,96010,US,40.74800000,-123.22900000,Big Bar,California,Big Bar,California,CA,Trinity,105
+1593,96020,US,40.29750000,-121.22730000,Chester,California,Chester,California,CA,Plumas,063
+1594,96033,US,40.70350000,-122.62290000,French Gulch,California,French Gulch,California,CA,Shasta,089
+1595,96034,US,41.51050000,-122.53710000,Gazelle,California,Gazelle,California,CA,Siskiyou,093
+1596,96035,US,40.04300000,-122.16490000,Gerber,California,Gerber,California,CA,Tehama,103
+1597,96038,US,41.61250000,-122.52580000,Grenada,California,Grenada,California,CA,Siskiyou,093
+1598,96057,US,41.24750000,-122.11280000,Mccloud,California,Mccloud,California,CA,Siskiyou,093
+1599,96059,US,40.43310000,-121.83650000,Manton,California,Manton,California,CA,Tehama,103
+1600,96062,US,40.56530000,-122.11110000,Millville,California,Millville,California,CA,Shasta,089
+1601,96085,US,41.77360000,-122.98820000,Scott Bar,California,Scott Bar,California,CA,Siskiyou,093
+1602,96090,US,40.02710000,-122.12330000,Tehama,California,Tehama,California,CA,Tehama,103
+1603,96094,US,41.42260000,-122.38610000,Weed,California,Weed,California,CA,Siskiyou,093
+1604,96097,US,41.72060000,-122.63760000,Yreka,California,Yreka,California,CA,Siskiyou,093
+1605,96104,US,41.47590000,-120.15160000,Cedarville,California,Cedarville,California,CA,Modoc,049
+1606,96105,US,39.79770000,-120.13960000,Chilcoot,California,Chilcoot,California,CA,Plumas,063
+1607,96106,US,39.75460000,-120.59510000,Clio,California,Clio,California,CA,Plumas,063
+1608,96107,US,38.50290000,-119.48280000,Coleville,California,Coleville,California,CA,Mono,051
+1609,96113,US,40.14850000,-120.17130000,Herlong,California,Herlong,California,CA,Lassen,035
+1610,96114,US,40.29630000,-120.50980000,Janesville,California,Janesville,California,CA,Lassen,035
+1611,96117,US,40.40730000,-120.40920000,Litchfield,California,Litchfield,California,CA,Lassen,035
+1612,96118,US,39.66300000,-120.22970000,Loyalton,California,Loyalton,California,CA,Sierra,091
+1613,96120,US,38.77130000,-119.83270000,Markleeville,California,Markleeville,California,CA,Alpine,003
+1614,96124,US,39.61390000,-120.40460000,Calpine,California,Calpine,California,CA,Sierra,091
+1615,96134,US,41.93160000,-121.43470000,Tulelake,California,Tulelake,California,CA,Siskiyou,093
+1616,91905,US,32.67190000,-116.32000000,Boulevard,California,Boulevard,California,CA,San Diego,073
+1617,92240,US,33.95310000,-116.52190000,Desert Hot Springs,California,Desert Hot Springs,California,CA,Riverside,065
+1618,92257,US,33.37840000,-115.69650000,Niland,California,Niland,California,CA,Imperial,025
+1619,93285,US,35.72460000,-118.45590000,Wofford Heights,California,Wofford Heights,California,CA,Kern,029
+1620,93311,US,35.30390000,-119.10560000,Bakersfield,California,Bakersfield,California,CA,Kern,029
+1621,96101,US,41.47670000,-120.54560000,Alturas,California,Alturas,California,CA,Modoc,049
+1622,96133,US,38.64150000,-119.51220000,Topaz,California,Topaz,California,CA,Mono,051
+1623,91934,US,32.62490000,-116.19520000,Jacumba,California,Jacumba,California,CA,San Diego,073
+1624,92105,US,32.74230000,-117.09470000,San Diego,California,San Diego,California,CA,San Diego,073
+1625,92250,US,32.81040000,-115.37750000,Holtville,California,Holtville,California,CA,Imperial,025
